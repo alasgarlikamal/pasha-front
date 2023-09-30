@@ -1,0 +1,2979 @@
+{
+    "locale": "az",
+    "trace_id": null,
+    "meta": {
+        "page": 1,
+        "per_page": 24,
+        "total_pages": 32,
+        "total_entries": 763
+    },
+    "products": [
+        {
+            "offers": [
+                {
+                    "uuid": "5e674c3c-4e40-4dc1-acf2-5882e68d35d6",
+                    "retail_price": 55.5,
+                    "avail_check": false,
+                    "id": 846161,
+                    "seller_marketing_name": {
+                        "ext_id": "68b218bc-bb7e-410b-817a-f9fbb918c4e8",
+                        "internal_id": "2251",
+                        "name": "Umico Market",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/d538eaf680eb6f3e5b6182a479bd4096.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/0db0cc1a94f1b4271e21a8e562735b92.jpg"
+                        },
+                        "legal_name": "Competo MMC",
+                        "vat_payer": true
+                    },
+                    "merchant_uuid": "239449d1-713c-4a42-8ce3-7821afcab364",
+                    "seller_id": "239449d1-713c-4a42-8ce3-7821afcab364",
+                    "old_price": 0,
+                    "partner_rating": 95,
+                    "marketing_name": {
+                        "ext_id": "68b218bc-bb7e-410b-817a-f9fbb918c4e8",
+                        "internal_id": "2251",
+                        "name": "Umico Market",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/d538eaf680eb6f3e5b6182a479bd4096.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/0db0cc1a94f1b4271e21a8e562735b92.jpg"
+                        },
+                        "legal_name": "Competo MMC",
+                        "vat_payer": true
+                    },
+                    "installment_enabled": true,
+                    "max_installment_months": 6,
+                    "supplier_id": "1822d63d-5825-4ca5-b887-3c8b0b56896c"
+                }
+            ],
+            "product_labels": [
+                {
+                    "id": 4154633,
+                    "label_id": 26,
+                    "name": "Kapital_visa",
+                    "position": 0,
+                    "color": "",
+                    "rule_type": "photo",
+                    "image_url": "https://strgimgr.umico.az/dcmimages/Images/Kapital_visa_az.png",
+                    "text": ""
+                }
+            ],
+            "default_merchant_rating": 95,
+            "is_bulk_heavy": false,
+            "default_offer_id": 846161,
+            "img_url_thumbnail": "https://strgimgr.umico.az/sized/280/196918-160607eaf8306dca04235f7829a8a2d7.jpg",
+            "old_price": 0,
+            "discount": 0,
+            "availability": "+",
+            "retail_price": 55.5,
+            "manufacturer": "LEGO",
+            "avail_check": false,
+            "category_id": 843,
+            "default_marketing_name": {
+                "ext_id": "68b218bc-bb7e-410b-817a-f9fbb918c4e8",
+                "internal_id": "2251",
+                "name": "Umico Market",
+                "logo": {
+                    "thumbnail": "https://storage.umico.az/cpcustomerprod01/d538eaf680eb6f3e5b6182a479bd4096.jpg",
+                    "original": "https://storage.umico.az/cpcustomerprod01/0db0cc1a94f1b4271e21a8e562735b92.jpg"
+                },
+                "legal_name": "Competo MMC"
+            },
+            "variations": [],
+            "id": 196918,
+            "categories": [
+                {
+                    "id": 843,
+                    "parent_id": 842,
+                    "vat": true,
+                    "name": "LEGO konstruktorlar",
+                    "slugged_name": "lego-konstruktorlar",
+                    "install_service_needed": false,
+                    "is_variant": false,
+                    "is_adult": false,
+                    "is_fragile": false,
+                    "child_ids": [],
+                    "split_boxes_by_item": false,
+                    "fitting_allowed": false
+                }
+            ],
+            "status": "active",
+            "score": 7.414769,
+            "search_variant_code": "svc_196918",
+            "name": "Konstruktor LEGO Speed Champions Koenigsegg Jesko 76900, 7+ yaş, 280 hissə",
+            "slugged_name": "konstruktor-lego-speed-champions-koenigsegg-jesko-7-yashdan"
+        },
+        {
+            "offers": [
+                {
+                    "uuid": "f2baa2fc-8f40-4cff-ac46-bed40b43de9c",
+                    "retail_price": 136.21,
+                    "avail_check": false,
+                    "id": 847329,
+                    "seller_marketing_name": {
+                        "ext_id": "68b218bc-bb7e-410b-817a-f9fbb918c4e8",
+                        "internal_id": "2251",
+                        "name": "Umico Market",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/d538eaf680eb6f3e5b6182a479bd4096.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/0db0cc1a94f1b4271e21a8e562735b92.jpg"
+                        },
+                        "legal_name": "Competo MMC",
+                        "vat_payer": true
+                    },
+                    "merchant_uuid": "239449d1-713c-4a42-8ce3-7821afcab364",
+                    "seller_id": "239449d1-713c-4a42-8ce3-7821afcab364",
+                    "old_price": 0,
+                    "partner_rating": 95,
+                    "marketing_name": {
+                        "ext_id": "68b218bc-bb7e-410b-817a-f9fbb918c4e8",
+                        "internal_id": "2251",
+                        "name": "Umico Market",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/d538eaf680eb6f3e5b6182a479bd4096.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/0db0cc1a94f1b4271e21a8e562735b92.jpg"
+                        },
+                        "legal_name": "Competo MMC",
+                        "vat_payer": true
+                    },
+                    "installment_enabled": true,
+                    "max_installment_months": 6,
+                    "supplier_id": "1822d63d-5825-4ca5-b887-3c8b0b56896c"
+                }
+            ],
+            "product_labels": [],
+            "default_merchant_rating": 95,
+            "is_bulk_heavy": false,
+            "default_offer_id": 847329,
+            "img_url_thumbnail": "https://strgimgr.umico.az/sized/280/555981-92c1547a565e72bd9677930ed95e2fe0.jpg",
+            "old_price": 0,
+            "discount": 0,
+            "availability": "+",
+            "retail_price": 136.21,
+            "manufacturer": "LEGO",
+            "avail_check": false,
+            "category_id": 843,
+            "default_marketing_name": {
+                "ext_id": "68b218bc-bb7e-410b-817a-f9fbb918c4e8",
+                "internal_id": "2251",
+                "name": "Umico Market",
+                "logo": {
+                    "thumbnail": "https://storage.umico.az/cpcustomerprod01/d538eaf680eb6f3e5b6182a479bd4096.jpg",
+                    "original": "https://storage.umico.az/cpcustomerprod01/0db0cc1a94f1b4271e21a8e562735b92.jpg"
+                },
+                "legal_name": "Competo MMC"
+            },
+            "variations": [],
+            "id": 555981,
+            "categories": [
+                {
+                    "id": 843,
+                    "parent_id": 842,
+                    "vat": true,
+                    "name": "LEGO konstruktorlar",
+                    "slugged_name": "lego-konstruktorlar",
+                    "install_service_needed": false,
+                    "is_variant": false,
+                    "is_adult": false,
+                    "is_fragile": false,
+                    "child_ids": [],
+                    "split_boxes_by_item": false,
+                    "fitting_allowed": false
+                }
+            ],
+            "status": "active",
+            "score": 7.6619196,
+            "search_variant_code": "svc_555981",
+            "name": "Konstruktor LEGO Star Wars Imperial Tie Fighter 75300, 8+ yaş, 432 hissə",
+            "slugged_name": "konstruktor-lego-star-wars-imperial-tie-fighter-75300-8-yash-432-hisse"
+        },
+        {
+            "offers": [
+                {
+                    "uuid": "e6105c11-c7d3-4310-9457-02383e7b7efd",
+                    "retail_price": 94.99,
+                    "avail_check": false,
+                    "id": 847335,
+                    "seller_marketing_name": {
+                        "ext_id": "68b218bc-bb7e-410b-817a-f9fbb918c4e8",
+                        "internal_id": "2251",
+                        "name": "Umico Market",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/d538eaf680eb6f3e5b6182a479bd4096.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/0db0cc1a94f1b4271e21a8e562735b92.jpg"
+                        },
+                        "legal_name": "Competo MMC",
+                        "vat_payer": true
+                    },
+                    "merchant_uuid": "239449d1-713c-4a42-8ce3-7821afcab364",
+                    "seller_id": "239449d1-713c-4a42-8ce3-7821afcab364",
+                    "old_price": 0,
+                    "partner_rating": 95,
+                    "marketing_name": {
+                        "ext_id": "68b218bc-bb7e-410b-817a-f9fbb918c4e8",
+                        "internal_id": "2251",
+                        "name": "Umico Market",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/d538eaf680eb6f3e5b6182a479bd4096.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/0db0cc1a94f1b4271e21a8e562735b92.jpg"
+                        },
+                        "legal_name": "Competo MMC",
+                        "vat_payer": true
+                    },
+                    "installment_enabled": true,
+                    "max_installment_months": 6,
+                    "supplier_id": "1822d63d-5825-4ca5-b887-3c8b0b56896c"
+                }
+            ],
+            "product_labels": [],
+            "default_merchant_rating": 95,
+            "is_bulk_heavy": false,
+            "default_offer_id": 847335,
+            "img_url_thumbnail": "https://strgimgr.umico.az/sized/280/555988-8b0e4b59133508e898f07a0bdac2d153.jpg",
+            "old_price": 0,
+            "discount": 0,
+            "availability": "+",
+            "retail_price": 94.99,
+            "manufacturer": "LEGO",
+            "avail_check": false,
+            "category_id": 843,
+            "default_marketing_name": {
+                "ext_id": "68b218bc-bb7e-410b-817a-f9fbb918c4e8",
+                "internal_id": "2251",
+                "name": "Umico Market",
+                "logo": {
+                    "thumbnail": "https://storage.umico.az/cpcustomerprod01/d538eaf680eb6f3e5b6182a479bd4096.jpg",
+                    "original": "https://storage.umico.az/cpcustomerprod01/0db0cc1a94f1b4271e21a8e562735b92.jpg"
+                },
+                "legal_name": "Competo MMC"
+            },
+            "variations": [],
+            "id": 555988,
+            "categories": [
+                {
+                    "id": 843,
+                    "parent_id": 842,
+                    "vat": true,
+                    "name": "LEGO konstruktorlar",
+                    "slugged_name": "lego-konstruktorlar",
+                    "install_service_needed": false,
+                    "is_variant": false,
+                    "is_adult": false,
+                    "is_fragile": false,
+                    "child_ids": [],
+                    "split_boxes_by_item": false,
+                    "fitting_allowed": false
+                }
+            ],
+            "status": "active",
+            "score": 7.398946,
+            "search_variant_code": "svc_555988",
+            "name": "Konstruktor LEGO Harry Potter Gryffindor House Banner 76409, 9+ yaş, 285 hissə",
+            "slugged_name": "konstruktor-lego-harry-potter-gryffindor-house-banner-76409-9-yash-285-hisse"
+        },
+        {
+            "offers": [
+                {
+                    "uuid": "2b1097bd-dc2e-4358-88a9-fe8c1ad5bc20",
+                    "retail_price": 89.9,
+                    "avail_check": false,
+                    "id": 791593,
+                    "seller_marketing_name": {
+                        "ext_id": "df69b99d-45f7-45e3-b6ad-fa0c4c7a8376",
+                        "internal_id": "4507",
+                        "name": "Music Gallery",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/64f6cbae0545763e98ee5e89f2a64655.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/0f21783332a8bb82c26d82b6b58857d0.jpg"
+                        },
+                        "legal_name": "POVER ON MMC",
+                        "vat_payer": true
+                    },
+                    "merchant_uuid": "9373bcaa-db49-4d47-94cb-e2ef6ba9ac36",
+                    "seller_id": "9373bcaa-db49-4d47-94cb-e2ef6ba9ac36",
+                    "old_price": 109.9,
+                    "partner_rating": 84,
+                    "marketing_name": {
+                        "ext_id": "df69b99d-45f7-45e3-b6ad-fa0c4c7a8376",
+                        "internal_id": "4507",
+                        "name": "Music Gallery",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/64f6cbae0545763e98ee5e89f2a64655.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/0f21783332a8bb82c26d82b6b58857d0.jpg"
+                        },
+                        "legal_name": "POVER ON MMC",
+                        "vat_payer": true
+                    },
+                    "installment_enabled": true,
+                    "max_installment_months": 18,
+                    "supplier_id": "9373bcaa-db49-4d47-94cb-e2ef6ba9ac36"
+                }
+            ],
+            "product_labels": [
+                {
+                    "id": 4111088,
+                    "label_id": 26,
+                    "name": "Kapital_visa",
+                    "position": 0,
+                    "color": "",
+                    "rule_type": "photo",
+                    "image_url": "https://strgimgr.umico.az/dcmimages/Images/Kapital_visa_az.png",
+                    "text": ""
+                }
+            ],
+            "default_merchant_rating": 84,
+            "is_bulk_heavy": false,
+            "default_offer_id": 791593,
+            "img_url_thumbnail": "https://strgimgr.umico.az/sized/280/517336-c990779a6ee30ab25e6297b7c474efa3.jpg",
+            "old_price": 109.9,
+            "discount": 18.19836214740673,
+            "availability": "+",
+            "retail_price": 89.9,
+            "manufacturer": "LEGO",
+            "avail_check": false,
+            "category_id": 843,
+            "default_marketing_name": {
+                "ext_id": "df69b99d-45f7-45e3-b6ad-fa0c4c7a8376",
+                "internal_id": "4507",
+                "name": "Music Gallery",
+                "logo": {
+                    "thumbnail": "https://storage.umico.az/cpcustomerprod01/64f6cbae0545763e98ee5e89f2a64655.jpg",
+                    "original": "https://storage.umico.az/cpcustomerprod01/0f21783332a8bb82c26d82b6b58857d0.jpg"
+                },
+                "legal_name": "POVER ON MMC"
+            },
+            "variations": [],
+            "id": 517336,
+            "categories": [
+                {
+                    "id": 843,
+                    "parent_id": 842,
+                    "vat": true,
+                    "name": "LEGO konstruktorlar",
+                    "slugged_name": "lego-konstruktorlar",
+                    "install_service_needed": false,
+                    "is_variant": false,
+                    "is_adult": false,
+                    "is_fragile": false,
+                    "child_ids": [],
+                    "split_boxes_by_item": false,
+                    "fitting_allowed": false
+                }
+            ],
+            "status": "active",
+            "score": 7.589083,
+            "search_variant_code": "svc_517336",
+            "name": "Konstruktor LEGO Tony Starks Sakaarian Iron Man 76194, 8+ yaş, 369 hissə",
+            "slugged_name": "konstruktor-lego-tony-starks-sakaarian-iron-man-76194-8-yash-369-hisse"
+        },
+        {
+            "offers": [
+                {
+                    "uuid": "bb4ded0c-4c41-456e-8fbb-6a7ebe213dcd",
+                    "retail_price": 70.74,
+                    "avail_check": false,
+                    "id": 844452,
+                    "seller_marketing_name": {
+                        "ext_id": "68b218bc-bb7e-410b-817a-f9fbb918c4e8",
+                        "internal_id": "2251",
+                        "name": "Umico Market",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/d538eaf680eb6f3e5b6182a479bd4096.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/0db0cc1a94f1b4271e21a8e562735b92.jpg"
+                        },
+                        "legal_name": "Competo MMC",
+                        "vat_payer": true
+                    },
+                    "merchant_uuid": "239449d1-713c-4a42-8ce3-7821afcab364",
+                    "seller_id": "239449d1-713c-4a42-8ce3-7821afcab364",
+                    "old_price": 0,
+                    "partner_rating": 95,
+                    "marketing_name": {
+                        "ext_id": "68b218bc-bb7e-410b-817a-f9fbb918c4e8",
+                        "internal_id": "2251",
+                        "name": "Umico Market",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/d538eaf680eb6f3e5b6182a479bd4096.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/0db0cc1a94f1b4271e21a8e562735b92.jpg"
+                        },
+                        "legal_name": "Competo MMC",
+                        "vat_payer": true
+                    },
+                    "installment_enabled": true,
+                    "max_installment_months": 6,
+                    "supplier_id": "1822d63d-5825-4ca5-b887-3c8b0b56896c"
+                },
+                {
+                    "uuid": "961dcee8-0502-47ac-b2e1-88885cf346fc",
+                    "retail_price": 71,
+                    "avail_check": false,
+                    "id": 649874,
+                    "seller_marketing_name": {
+                        "ext_id": "bbd79d31-eaa9-4797-b0d3-173b932ceaec",
+                        "internal_id": "2260",
+                        "name": "TOYS TOYS",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/ca13efd47dfeb12b41764280af31fe2d.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/d1ea7f5c6bd6f59b378612b0e7be9936.jpg"
+                        },
+                        "legal_name": "İSAYEV MURAD ƏMİRSULTAN",
+                        "vat_payer": false
+                    },
+                    "merchant_uuid": "1ae834b6-1e73-4522-9e1d-01983c237f76",
+                    "seller_id": "1ae834b6-1e73-4522-9e1d-01983c237f76",
+                    "old_price": 0,
+                    "partner_rating": 84,
+                    "marketing_name": {
+                        "ext_id": "bbd79d31-eaa9-4797-b0d3-173b932ceaec",
+                        "internal_id": "2260",
+                        "name": "TOYS TOYS",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/ca13efd47dfeb12b41764280af31fe2d.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/d1ea7f5c6bd6f59b378612b0e7be9936.jpg"
+                        },
+                        "legal_name": "İSAYEV MURAD ƏMİRSULTAN",
+                        "vat_payer": false
+                    },
+                    "installment_enabled": false,
+                    "max_installment_months": 0,
+                    "supplier_id": "1ae834b6-1e73-4522-9e1d-01983c237f76"
+                }
+            ],
+            "product_labels": [
+                {
+                    "id": 4157751,
+                    "label_id": 26,
+                    "name": "Kapital_visa",
+                    "position": 0,
+                    "color": "",
+                    "rule_type": "photo",
+                    "image_url": "https://strgimgr.umico.az/dcmimages/Images/Kapital_visa_az.png",
+                    "text": ""
+                }
+            ],
+            "default_merchant_rating": 95,
+            "is_bulk_heavy": false,
+            "default_offer_id": 844452,
+            "img_url_thumbnail": "https://strgimgr.umico.az/sized/280/436422-0e630d71ce64bb8edef9b1a54d3733ef.jpg",
+            "old_price": 0,
+            "discount": 0,
+            "availability": "+",
+            "retail_price": 70.74,
+            "manufacturer": "LEGO",
+            "avail_check": false,
+            "category_id": 843,
+            "default_marketing_name": {
+                "ext_id": "68b218bc-bb7e-410b-817a-f9fbb918c4e8",
+                "internal_id": "2251",
+                "name": "Umico Market",
+                "logo": {
+                    "thumbnail": "https://storage.umico.az/cpcustomerprod01/d538eaf680eb6f3e5b6182a479bd4096.jpg",
+                    "original": "https://storage.umico.az/cpcustomerprod01/0db0cc1a94f1b4271e21a8e562735b92.jpg"
+                },
+                "legal_name": "Competo MMC"
+            },
+            "variations": [],
+            "id": 436422,
+            "categories": [
+                {
+                    "id": 843,
+                    "parent_id": 842,
+                    "vat": true,
+                    "name": "LEGO konstruktorlar",
+                    "slugged_name": "lego-konstruktorlar",
+                    "install_service_needed": false,
+                    "is_variant": false,
+                    "is_adult": false,
+                    "is_fragile": false,
+                    "child_ids": [],
+                    "split_boxes_by_item": false,
+                    "fitting_allowed": false
+                }
+            ],
+            "status": "active",
+            "score": 7.414769,
+            "search_variant_code": "svc_436422",
+            "name": "Konstruktor LEGO Speed Champions Lamborghini Countach 76908, 8+ yaş, 262 hissə",
+            "slugged_name": "konstruktor-lego-speed-champions-lamborghini-countach-76908-8-yash-262-hisse"
+        },
+        {
+            "offers": [
+                {
+                    "uuid": "e51ce3e7-ff91-4914-8c6a-2cb91f54000c",
+                    "retail_price": 70.78,
+                    "avail_check": false,
+                    "id": 844460,
+                    "seller_marketing_name": {
+                        "ext_id": "68b218bc-bb7e-410b-817a-f9fbb918c4e8",
+                        "internal_id": "2251",
+                        "name": "Umico Market",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/d538eaf680eb6f3e5b6182a479bd4096.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/0db0cc1a94f1b4271e21a8e562735b92.jpg"
+                        },
+                        "legal_name": "Competo MMC",
+                        "vat_payer": true
+                    },
+                    "merchant_uuid": "239449d1-713c-4a42-8ce3-7821afcab364",
+                    "seller_id": "239449d1-713c-4a42-8ce3-7821afcab364",
+                    "old_price": 0,
+                    "partner_rating": 95,
+                    "marketing_name": {
+                        "ext_id": "68b218bc-bb7e-410b-817a-f9fbb918c4e8",
+                        "internal_id": "2251",
+                        "name": "Umico Market",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/d538eaf680eb6f3e5b6182a479bd4096.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/0db0cc1a94f1b4271e21a8e562735b92.jpg"
+                        },
+                        "legal_name": "Competo MMC",
+                        "vat_payer": true
+                    },
+                    "installment_enabled": true,
+                    "max_installment_months": 6,
+                    "supplier_id": "1822d63d-5825-4ca5-b887-3c8b0b56896c"
+                },
+                {
+                    "uuid": "5a2af2e1-5f4c-4c25-8ace-918c7b16665a",
+                    "retail_price": 71,
+                    "avail_check": false,
+                    "id": 613815,
+                    "seller_marketing_name": {
+                        "ext_id": "bbd79d31-eaa9-4797-b0d3-173b932ceaec",
+                        "internal_id": "2260",
+                        "name": "TOYS TOYS",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/ca13efd47dfeb12b41764280af31fe2d.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/d1ea7f5c6bd6f59b378612b0e7be9936.jpg"
+                        },
+                        "legal_name": "İSAYEV MURAD ƏMİRSULTAN",
+                        "vat_payer": false
+                    },
+                    "merchant_uuid": "1ae834b6-1e73-4522-9e1d-01983c237f76",
+                    "seller_id": "1ae834b6-1e73-4522-9e1d-01983c237f76",
+                    "old_price": 0,
+                    "partner_rating": 84,
+                    "marketing_name": {
+                        "ext_id": "bbd79d31-eaa9-4797-b0d3-173b932ceaec",
+                        "internal_id": "2260",
+                        "name": "TOYS TOYS",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/ca13efd47dfeb12b41764280af31fe2d.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/d1ea7f5c6bd6f59b378612b0e7be9936.jpg"
+                        },
+                        "legal_name": "İSAYEV MURAD ƏMİRSULTAN",
+                        "vat_payer": false
+                    },
+                    "installment_enabled": false,
+                    "max_installment_months": 0,
+                    "supplier_id": "1ae834b6-1e73-4522-9e1d-01983c237f76"
+                }
+            ],
+            "product_labels": [
+                {
+                    "id": 4124887,
+                    "label_id": 26,
+                    "name": "Kapital_visa",
+                    "position": 0,
+                    "color": "",
+                    "rule_type": "photo",
+                    "image_url": "https://strgimgr.umico.az/dcmimages/Images/Kapital_visa_az.png",
+                    "text": ""
+                }
+            ],
+            "default_merchant_rating": 95,
+            "is_bulk_heavy": false,
+            "default_offer_id": 844460,
+            "img_url_thumbnail": "https://strgimgr.umico.az/sized/280/436431-16cbb6362f6663f6171abf09ae805be0.jpg",
+            "old_price": 0,
+            "discount": 0,
+            "availability": "+",
+            "retail_price": 70.78,
+            "manufacturer": "LEGO",
+            "avail_check": false,
+            "category_id": 843,
+            "default_marketing_name": {
+                "ext_id": "68b218bc-bb7e-410b-817a-f9fbb918c4e8",
+                "internal_id": "2251",
+                "name": "Umico Market",
+                "logo": {
+                    "thumbnail": "https://storage.umico.az/cpcustomerprod01/d538eaf680eb6f3e5b6182a479bd4096.jpg",
+                    "original": "https://storage.umico.az/cpcustomerprod01/0db0cc1a94f1b4271e21a8e562735b92.jpg"
+                },
+                "legal_name": "Competo MMC"
+            },
+            "variations": [],
+            "id": 436431,
+            "categories": [
+                {
+                    "id": 843,
+                    "parent_id": 842,
+                    "vat": true,
+                    "name": "LEGO konstruktorlar",
+                    "slugged_name": "lego-konstruktorlar",
+                    "install_service_needed": false,
+                    "is_variant": false,
+                    "is_adult": false,
+                    "is_fragile": false,
+                    "child_ids": [],
+                    "split_boxes_by_item": false,
+                    "fitting_allowed": false
+                }
+            ],
+            "status": "active",
+            "score": 7.246186,
+            "search_variant_code": "svc_436431",
+            "name": "Konstruktor LEGO Speed Champions Fast & Furious 1970 Dodge Charger 76912, 8+ yaş, 345 hissə",
+            "slugged_name": "konstruktor-lego-speed-champions-fast-furious-1970-dodge-charger-76912-8-yash-345-hisse"
+        },
+        {
+            "offers": [
+                {
+                    "uuid": "5ba37456-fbfd-4c22-b935-e90f4ddad402",
+                    "retail_price": 40.18,
+                    "avail_check": false,
+                    "id": 869093,
+                    "seller_marketing_name": {
+                        "ext_id": "68b218bc-bb7e-410b-817a-f9fbb918c4e8",
+                        "internal_id": "2251",
+                        "name": "Umico Market",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/d538eaf680eb6f3e5b6182a479bd4096.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/0db0cc1a94f1b4271e21a8e562735b92.jpg"
+                        },
+                        "legal_name": "Competo MMC",
+                        "vat_payer": true
+                    },
+                    "merchant_uuid": "239449d1-713c-4a42-8ce3-7821afcab364",
+                    "seller_id": "239449d1-713c-4a42-8ce3-7821afcab364",
+                    "old_price": 0,
+                    "partner_rating": 95,
+                    "marketing_name": {
+                        "ext_id": "68b218bc-bb7e-410b-817a-f9fbb918c4e8",
+                        "internal_id": "2251",
+                        "name": "Umico Market",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/d538eaf680eb6f3e5b6182a479bd4096.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/0db0cc1a94f1b4271e21a8e562735b92.jpg"
+                        },
+                        "legal_name": "Competo MMC",
+                        "vat_payer": true
+                    },
+                    "installment_enabled": true,
+                    "max_installment_months": 6,
+                    "supplier_id": "1822d63d-5825-4ca5-b887-3c8b0b56896c"
+                },
+                {
+                    "uuid": "ad5ff6b6-e671-4d9d-a5b4-ab2095d74cb4",
+                    "retail_price": 41,
+                    "avail_check": false,
+                    "id": 873913,
+                    "seller_marketing_name": {
+                        "ext_id": "bbd79d31-eaa9-4797-b0d3-173b932ceaec",
+                        "internal_id": "2260",
+                        "name": "TOYS TOYS",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/ca13efd47dfeb12b41764280af31fe2d.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/d1ea7f5c6bd6f59b378612b0e7be9936.jpg"
+                        },
+                        "legal_name": "İSAYEV MURAD ƏMİRSULTAN",
+                        "vat_payer": false
+                    },
+                    "merchant_uuid": "1ae834b6-1e73-4522-9e1d-01983c237f76",
+                    "seller_id": "1ae834b6-1e73-4522-9e1d-01983c237f76",
+                    "old_price": 0,
+                    "partner_rating": 84,
+                    "marketing_name": {
+                        "ext_id": "bbd79d31-eaa9-4797-b0d3-173b932ceaec",
+                        "internal_id": "2260",
+                        "name": "TOYS TOYS",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/ca13efd47dfeb12b41764280af31fe2d.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/d1ea7f5c6bd6f59b378612b0e7be9936.jpg"
+                        },
+                        "legal_name": "İSAYEV MURAD ƏMİRSULTAN",
+                        "vat_payer": false
+                    },
+                    "installment_enabled": false,
+                    "max_installment_months": 0,
+                    "supplier_id": "1ae834b6-1e73-4522-9e1d-01983c237f76"
+                }
+            ],
+            "product_labels": [],
+            "default_merchant_rating": 95,
+            "is_bulk_heavy": false,
+            "default_offer_id": 869093,
+            "img_url_thumbnail": "https://strgimgr.umico.az/sized/280/573435-8cb6fd41efcd84ce8f08e414c85c6710.jpg",
+            "old_price": 0,
+            "discount": 0,
+            "availability": "+",
+            "retail_price": 40.18,
+            "manufacturer": "LEGO",
+            "avail_check": false,
+            "category_id": 843,
+            "default_marketing_name": {
+                "ext_id": "68b218bc-bb7e-410b-817a-f9fbb918c4e8",
+                "internal_id": "2251",
+                "name": "Umico Market",
+                "logo": {
+                    "thumbnail": "https://storage.umico.az/cpcustomerprod01/d538eaf680eb6f3e5b6182a479bd4096.jpg",
+                    "original": "https://storage.umico.az/cpcustomerprod01/0db0cc1a94f1b4271e21a8e562735b92.jpg"
+                },
+                "legal_name": "Competo MMC"
+            },
+            "variations": [],
+            "id": 573435,
+            "categories": [
+                {
+                    "id": 843,
+                    "parent_id": 842,
+                    "vat": true,
+                    "name": "LEGO konstruktorlar",
+                    "slugged_name": "lego-konstruktorlar",
+                    "install_service_needed": false,
+                    "is_variant": false,
+                    "is_adult": false,
+                    "is_fragile": false,
+                    "child_ids": [],
+                    "split_boxes_by_item": false,
+                    "fitting_allowed": false
+                }
+            ],
+            "status": "active",
+            "score": 7.3467646,
+            "search_variant_code": "svc_573435",
+            "name": "Konstruktor LEGO Super Heroes Black Widow & Captain America Motorcycles 76260, 6+ yaş, 130 hissə",
+            "slugged_name": "konstruktor-lego-super-heroes-black-widow-captain-america-motorcycles-76260-6-yash-130-hisse"
+        },
+        {
+            "offers": [
+                {
+                    "uuid": "53fd6d94-3be4-4f5e-a9d3-bc70326f8339",
+                    "retail_price": 23.07,
+                    "avail_check": false,
+                    "id": 251763,
+                    "seller_marketing_name": {
+                        "ext_id": "68b218bc-bb7e-410b-817a-f9fbb918c4e8",
+                        "internal_id": "2251",
+                        "name": "Umico Market",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/d538eaf680eb6f3e5b6182a479bd4096.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/0db0cc1a94f1b4271e21a8e562735b92.jpg"
+                        },
+                        "legal_name": "Competo MMC",
+                        "vat_payer": true
+                    },
+                    "merchant_uuid": "239449d1-713c-4a42-8ce3-7821afcab364",
+                    "seller_id": "239449d1-713c-4a42-8ce3-7821afcab364",
+                    "old_price": 0,
+                    "partner_rating": 95,
+                    "marketing_name": {
+                        "ext_id": "68b218bc-bb7e-410b-817a-f9fbb918c4e8",
+                        "internal_id": "2251",
+                        "name": "Umico Market",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/d538eaf680eb6f3e5b6182a479bd4096.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/0db0cc1a94f1b4271e21a8e562735b92.jpg"
+                        },
+                        "legal_name": "Competo MMC",
+                        "vat_payer": true
+                    },
+                    "installment_enabled": true,
+                    "max_installment_months": 6,
+                    "supplier_id": "1822d63d-5825-4ca5-b887-3c8b0b56896c"
+                },
+                {
+                    "uuid": "eb7881b4-33ba-4e6e-8530-dfdda97a4e02",
+                    "retail_price": 24.9,
+                    "avail_check": false,
+                    "id": 783904,
+                    "seller_marketing_name": {
+                        "ext_id": "df69b99d-45f7-45e3-b6ad-fa0c4c7a8376",
+                        "internal_id": "4507",
+                        "name": "Music Gallery",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/64f6cbae0545763e98ee5e89f2a64655.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/0f21783332a8bb82c26d82b6b58857d0.jpg"
+                        },
+                        "legal_name": "POVER ON MMC",
+                        "vat_payer": true
+                    },
+                    "merchant_uuid": "9373bcaa-db49-4d47-94cb-e2ef6ba9ac36",
+                    "seller_id": "9373bcaa-db49-4d47-94cb-e2ef6ba9ac36",
+                    "old_price": 29.9,
+                    "partner_rating": 84,
+                    "marketing_name": {
+                        "ext_id": "df69b99d-45f7-45e3-b6ad-fa0c4c7a8376",
+                        "internal_id": "4507",
+                        "name": "Music Gallery",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/64f6cbae0545763e98ee5e89f2a64655.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/0f21783332a8bb82c26d82b6b58857d0.jpg"
+                        },
+                        "legal_name": "POVER ON MMC",
+                        "vat_payer": true
+                    },
+                    "installment_enabled": true,
+                    "max_installment_months": 18,
+                    "supplier_id": "9373bcaa-db49-4d47-94cb-e2ef6ba9ac36"
+                },
+                {
+                    "uuid": "7c3fb2d1-c25d-45bc-b4f4-244ad6557032",
+                    "retail_price": 23,
+                    "avail_check": false,
+                    "id": 889558,
+                    "seller_marketing_name": {
+                        "ext_id": "1c48b16c-1810-4acb-a329-f593fea98170",
+                        "internal_id": "3062",
+                        "name": "Stem Store",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/d20091d02e2e1b3d27c13bbefe913e3c.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/7dc6f9a073754c93c6c5627eafef2d4e.jpg"
+                        },
+                        "legal_name": "TN GROUP MMC",
+                        "vat_payer": true
+                    },
+                    "merchant_uuid": "23c0639d-4702-4581-8736-e82f4575c28d",
+                    "seller_id": "23c0639d-4702-4581-8736-e82f4575c28d",
+                    "old_price": 0,
+                    "partner_rating": 98,
+                    "marketing_name": {
+                        "ext_id": "1c48b16c-1810-4acb-a329-f593fea98170",
+                        "internal_id": "3062",
+                        "name": "Stem Store",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/d20091d02e2e1b3d27c13bbefe913e3c.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/7dc6f9a073754c93c6c5627eafef2d4e.jpg"
+                        },
+                        "legal_name": "TN GROUP MMC",
+                        "vat_payer": true
+                    },
+                    "installment_enabled": true,
+                    "max_installment_months": 18,
+                    "supplier_id": "23c0639d-4702-4581-8736-e82f4575c28d"
+                }
+            ],
+            "product_labels": [],
+            "default_merchant_rating": 98,
+            "is_bulk_heavy": false,
+            "default_offer_id": 889558,
+            "img_url_thumbnail": "https://strgimgr.umico.az/sized/280/225976-b89916b5150ae95a07d511872833338d.jpg",
+            "old_price": 0,
+            "discount": 0,
+            "availability": "+",
+            "retail_price": 23,
+            "manufacturer": "LEGO",
+            "avail_check": false,
+            "category_id": 843,
+            "default_marketing_name": {
+                "ext_id": "1c48b16c-1810-4acb-a329-f593fea98170",
+                "internal_id": "3062",
+                "name": "Stem Store",
+                "logo": {
+                    "thumbnail": "https://storage.umico.az/cpcustomerprod01/d20091d02e2e1b3d27c13bbefe913e3c.jpg",
+                    "original": "https://storage.umico.az/cpcustomerprod01/7dc6f9a073754c93c6c5627eafef2d4e.jpg"
+                },
+                "legal_name": "TN GROUP MMC"
+            },
+            "variations": [],
+            "id": 225976,
+            "categories": [
+                {
+                    "id": 843,
+                    "parent_id": 842,
+                    "vat": true,
+                    "name": "LEGO konstruktorlar",
+                    "slugged_name": "lego-konstruktorlar",
+                    "install_service_needed": false,
+                    "is_variant": false,
+                    "is_adult": false,
+                    "is_fragile": false,
+                    "child_ids": [],
+                    "split_boxes_by_item": false,
+                    "fitting_allowed": false
+                }
+            ],
+            "status": "active",
+            "score": 7.398946,
+            "search_variant_code": "svc_225976",
+            "name": "Konstruktor LEGO Technic Race Plane 42117, 7+ yaş, 154 hissə",
+            "slugged_name": "konstruktor-lego-technic-42117-race-plane-7-yashdan"
+        },
+        {
+            "offers": [
+                {
+                    "uuid": "92adcce6-4dd7-4e37-a507-38356eab1298",
+                    "retail_price": 23.03,
+                    "avail_check": false,
+                    "id": 869648,
+                    "seller_marketing_name": {
+                        "ext_id": "68b218bc-bb7e-410b-817a-f9fbb918c4e8",
+                        "internal_id": "2251",
+                        "name": "Umico Market",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/d538eaf680eb6f3e5b6182a479bd4096.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/0db0cc1a94f1b4271e21a8e562735b92.jpg"
+                        },
+                        "legal_name": "Competo MMC",
+                        "vat_payer": true
+                    },
+                    "merchant_uuid": "239449d1-713c-4a42-8ce3-7821afcab364",
+                    "seller_id": "239449d1-713c-4a42-8ce3-7821afcab364",
+                    "old_price": 0,
+                    "partner_rating": 95,
+                    "marketing_name": {
+                        "ext_id": "68b218bc-bb7e-410b-817a-f9fbb918c4e8",
+                        "internal_id": "2251",
+                        "name": "Umico Market",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/d538eaf680eb6f3e5b6182a479bd4096.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/0db0cc1a94f1b4271e21a8e562735b92.jpg"
+                        },
+                        "legal_name": "Competo MMC",
+                        "vat_payer": true
+                    },
+                    "installment_enabled": true,
+                    "max_installment_months": 6,
+                    "supplier_id": "1822d63d-5825-4ca5-b887-3c8b0b56896c"
+                },
+                {
+                    "uuid": "ebe6155b-e009-4f02-b46c-49e218d2a8ff",
+                    "retail_price": 24,
+                    "avail_check": false,
+                    "id": 876270,
+                    "seller_marketing_name": {
+                        "ext_id": "bbd79d31-eaa9-4797-b0d3-173b932ceaec",
+                        "internal_id": "2260",
+                        "name": "TOYS TOYS",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/ca13efd47dfeb12b41764280af31fe2d.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/d1ea7f5c6bd6f59b378612b0e7be9936.jpg"
+                        },
+                        "legal_name": "İSAYEV MURAD ƏMİRSULTAN",
+                        "vat_payer": false
+                    },
+                    "merchant_uuid": "1ae834b6-1e73-4522-9e1d-01983c237f76",
+                    "seller_id": "1ae834b6-1e73-4522-9e1d-01983c237f76",
+                    "old_price": 0,
+                    "partner_rating": 84,
+                    "marketing_name": {
+                        "ext_id": "bbd79d31-eaa9-4797-b0d3-173b932ceaec",
+                        "internal_id": "2260",
+                        "name": "TOYS TOYS",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/ca13efd47dfeb12b41764280af31fe2d.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/d1ea7f5c6bd6f59b378612b0e7be9936.jpg"
+                        },
+                        "legal_name": "İSAYEV MURAD ƏMİRSULTAN",
+                        "vat_payer": false
+                    },
+                    "installment_enabled": false,
+                    "max_installment_months": 0,
+                    "supplier_id": "1ae834b6-1e73-4522-9e1d-01983c237f76"
+                },
+                {
+                    "uuid": "e85084e5-b4fe-421a-9420-e6957ef9a391",
+                    "retail_price": 23,
+                    "avail_check": false,
+                    "id": 889561,
+                    "seller_marketing_name": {
+                        "ext_id": "1c48b16c-1810-4acb-a329-f593fea98170",
+                        "internal_id": "3062",
+                        "name": "Stem Store",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/d20091d02e2e1b3d27c13bbefe913e3c.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/7dc6f9a073754c93c6c5627eafef2d4e.jpg"
+                        },
+                        "legal_name": "TN GROUP MMC",
+                        "vat_payer": true
+                    },
+                    "merchant_uuid": "23c0639d-4702-4581-8736-e82f4575c28d",
+                    "seller_id": "23c0639d-4702-4581-8736-e82f4575c28d",
+                    "old_price": 0,
+                    "partner_rating": 98,
+                    "marketing_name": {
+                        "ext_id": "1c48b16c-1810-4acb-a329-f593fea98170",
+                        "internal_id": "3062",
+                        "name": "Stem Store",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/d20091d02e2e1b3d27c13bbefe913e3c.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/7dc6f9a073754c93c6c5627eafef2d4e.jpg"
+                        },
+                        "legal_name": "TN GROUP MMC",
+                        "vat_payer": true
+                    },
+                    "installment_enabled": true,
+                    "max_installment_months": 18,
+                    "supplier_id": "23c0639d-4702-4581-8736-e82f4575c28d"
+                }
+            ],
+            "product_labels": [],
+            "default_merchant_rating": 98,
+            "is_bulk_heavy": false,
+            "default_offer_id": 889561,
+            "img_url_thumbnail": "https://strgimgr.umico.az/sized/280/574531-3e1dec8caddf12d3f56a0cfb6fe0be2a.jpg",
+            "old_price": 0,
+            "discount": 0,
+            "availability": "+",
+            "retail_price": 23,
+            "manufacturer": "LEGO",
+            "avail_check": false,
+            "category_id": 843,
+            "default_marketing_name": {
+                "ext_id": "1c48b16c-1810-4acb-a329-f593fea98170",
+                "internal_id": "3062",
+                "name": "Stem Store",
+                "logo": {
+                    "thumbnail": "https://storage.umico.az/cpcustomerprod01/d20091d02e2e1b3d27c13bbefe913e3c.jpg",
+                    "original": "https://storage.umico.az/cpcustomerprod01/7dc6f9a073754c93c6c5627eafef2d4e.jpg"
+                },
+                "legal_name": "TN GROUP MMC"
+            },
+            "variations": [],
+            "id": 574531,
+            "categories": [
+                {
+                    "id": 843,
+                    "parent_id": 842,
+                    "vat": true,
+                    "name": "LEGO konstruktorlar",
+                    "slugged_name": "lego-konstruktorlar",
+                    "install_service_needed": false,
+                    "is_variant": false,
+                    "is_adult": false,
+                    "is_fragile": false,
+                    "child_ids": [],
+                    "split_boxes_by_item": false,
+                    "fitting_allowed": false
+                }
+            ],
+            "status": "active",
+            "score": 7.6619196,
+            "search_variant_code": "svc_574531",
+            "name": "Konstruktor LEGO Technic Motorcycle 42132, 7+ yaş, 163 hissə",
+            "slugged_name": "konstruktor-lego-technic-motorcycle-42132-7-yash-163-hisse"
+        },
+        {
+            "offers": [
+                {
+                    "uuid": "ed423219-fea9-4ee5-8d9b-b681f3b9b370",
+                    "retail_price": 23.07,
+                    "avail_check": false,
+                    "id": 251759,
+                    "seller_marketing_name": {
+                        "ext_id": "68b218bc-bb7e-410b-817a-f9fbb918c4e8",
+                        "internal_id": "2251",
+                        "name": "Umico Market",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/d538eaf680eb6f3e5b6182a479bd4096.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/0db0cc1a94f1b4271e21a8e562735b92.jpg"
+                        },
+                        "legal_name": "Competo MMC",
+                        "vat_payer": true
+                    },
+                    "merchant_uuid": "239449d1-713c-4a42-8ce3-7821afcab364",
+                    "seller_id": "239449d1-713c-4a42-8ce3-7821afcab364",
+                    "old_price": 0,
+                    "partner_rating": 95,
+                    "marketing_name": {
+                        "ext_id": "68b218bc-bb7e-410b-817a-f9fbb918c4e8",
+                        "internal_id": "2251",
+                        "name": "Umico Market",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/d538eaf680eb6f3e5b6182a479bd4096.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/0db0cc1a94f1b4271e21a8e562735b92.jpg"
+                        },
+                        "legal_name": "Competo MMC",
+                        "vat_payer": true
+                    },
+                    "installment_enabled": true,
+                    "max_installment_months": 6,
+                    "supplier_id": "1822d63d-5825-4ca5-b887-3c8b0b56896c"
+                },
+                {
+                    "uuid": "8d7c4724-9c84-4999-bd55-fac610d6765f",
+                    "retail_price": 24.9,
+                    "avail_check": false,
+                    "id": 783928,
+                    "seller_marketing_name": {
+                        "ext_id": "df69b99d-45f7-45e3-b6ad-fa0c4c7a8376",
+                        "internal_id": "4507",
+                        "name": "Music Gallery",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/64f6cbae0545763e98ee5e89f2a64655.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/0f21783332a8bb82c26d82b6b58857d0.jpg"
+                        },
+                        "legal_name": "POVER ON MMC",
+                        "vat_payer": true
+                    },
+                    "merchant_uuid": "9373bcaa-db49-4d47-94cb-e2ef6ba9ac36",
+                    "seller_id": "9373bcaa-db49-4d47-94cb-e2ef6ba9ac36",
+                    "old_price": 29.9,
+                    "partner_rating": 84,
+                    "marketing_name": {
+                        "ext_id": "df69b99d-45f7-45e3-b6ad-fa0c4c7a8376",
+                        "internal_id": "4507",
+                        "name": "Music Gallery",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/64f6cbae0545763e98ee5e89f2a64655.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/0f21783332a8bb82c26d82b6b58857d0.jpg"
+                        },
+                        "legal_name": "POVER ON MMC",
+                        "vat_payer": true
+                    },
+                    "installment_enabled": true,
+                    "max_installment_months": 18,
+                    "supplier_id": "9373bcaa-db49-4d47-94cb-e2ef6ba9ac36"
+                },
+                {
+                    "uuid": "33033e43-4bb7-40ce-a33b-f14de5e1a679",
+                    "retail_price": 23,
+                    "avail_check": false,
+                    "id": 889548,
+                    "seller_marketing_name": {
+                        "ext_id": "1c48b16c-1810-4acb-a329-f593fea98170",
+                        "internal_id": "3062",
+                        "name": "Stem Store",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/d20091d02e2e1b3d27c13bbefe913e3c.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/7dc6f9a073754c93c6c5627eafef2d4e.jpg"
+                        },
+                        "legal_name": "TN GROUP MMC",
+                        "vat_payer": true
+                    },
+                    "merchant_uuid": "23c0639d-4702-4581-8736-e82f4575c28d",
+                    "seller_id": "23c0639d-4702-4581-8736-e82f4575c28d",
+                    "old_price": 0,
+                    "partner_rating": 98,
+                    "marketing_name": {
+                        "ext_id": "1c48b16c-1810-4acb-a329-f593fea98170",
+                        "internal_id": "3062",
+                        "name": "Stem Store",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/d20091d02e2e1b3d27c13bbefe913e3c.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/7dc6f9a073754c93c6c5627eafef2d4e.jpg"
+                        },
+                        "legal_name": "TN GROUP MMC",
+                        "vat_payer": true
+                    },
+                    "installment_enabled": true,
+                    "max_installment_months": 18,
+                    "supplier_id": "23c0639d-4702-4581-8736-e82f4575c28d"
+                }
+            ],
+            "product_labels": [],
+            "default_merchant_rating": 98,
+            "is_bulk_heavy": false,
+            "default_offer_id": 889548,
+            "img_url_thumbnail": "https://strgimgr.umico.az/sized/280/225973-399b053316a77595c93e5a0b5dbfe614.jpg",
+            "old_price": 0,
+            "discount": 0,
+            "availability": "+",
+            "retail_price": 23,
+            "manufacturer": "LEGO",
+            "avail_check": false,
+            "category_id": 843,
+            "default_marketing_name": {
+                "ext_id": "1c48b16c-1810-4acb-a329-f593fea98170",
+                "internal_id": "3062",
+                "name": "Stem Store",
+                "logo": {
+                    "thumbnail": "https://storage.umico.az/cpcustomerprod01/d20091d02e2e1b3d27c13bbefe913e3c.jpg",
+                    "original": "https://storage.umico.az/cpcustomerprod01/7dc6f9a073754c93c6c5627eafef2d4e.jpg"
+                },
+                "legal_name": "TN GROUP MMC"
+            },
+            "variations": [],
+            "id": 225973,
+            "categories": [
+                {
+                    "id": 843,
+                    "parent_id": 842,
+                    "vat": true,
+                    "name": "LEGO konstruktorlar",
+                    "slugged_name": "lego-konstruktorlar",
+                    "install_service_needed": false,
+                    "is_variant": false,
+                    "is_adult": false,
+                    "is_fragile": false,
+                    "child_ids": [],
+                    "split_boxes_by_item": false,
+                    "fitting_allowed": false
+                }
+            ],
+            "status": "active",
+            "score": 7.6619196,
+            "search_variant_code": "svc_225973",
+            "name": "Konstruktor LEGO Creator Cyber Drone 31111, 6+ yaş, 113 hissə",
+            "slugged_name": "konstruktor-lego-creator-31111-cyber-drone-6-yashdan"
+        },
+        {
+            "offers": [
+                {
+                    "uuid": "3ae09913-ba3b-449b-a12f-ec4d418c0c46",
+                    "retail_price": 23.07,
+                    "avail_check": false,
+                    "id": 251727,
+                    "seller_marketing_name": {
+                        "ext_id": "68b218bc-bb7e-410b-817a-f9fbb918c4e8",
+                        "internal_id": "2251",
+                        "name": "Umico Market",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/d538eaf680eb6f3e5b6182a479bd4096.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/0db0cc1a94f1b4271e21a8e562735b92.jpg"
+                        },
+                        "legal_name": "Competo MMC",
+                        "vat_payer": true
+                    },
+                    "merchant_uuid": "239449d1-713c-4a42-8ce3-7821afcab364",
+                    "seller_id": "239449d1-713c-4a42-8ce3-7821afcab364",
+                    "old_price": 0,
+                    "partner_rating": 95,
+                    "marketing_name": {
+                        "ext_id": "68b218bc-bb7e-410b-817a-f9fbb918c4e8",
+                        "internal_id": "2251",
+                        "name": "Umico Market",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/d538eaf680eb6f3e5b6182a479bd4096.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/0db0cc1a94f1b4271e21a8e562735b92.jpg"
+                        },
+                        "legal_name": "Competo MMC",
+                        "vat_payer": true
+                    },
+                    "installment_enabled": true,
+                    "max_installment_months": 6,
+                    "supplier_id": "1822d63d-5825-4ca5-b887-3c8b0b56896c"
+                },
+                {
+                    "uuid": "77405efa-51cf-4d4a-855e-0553c99f4266",
+                    "retail_price": 23,
+                    "avail_check": false,
+                    "id": 889569,
+                    "seller_marketing_name": {
+                        "ext_id": "1c48b16c-1810-4acb-a329-f593fea98170",
+                        "internal_id": "3062",
+                        "name": "Stem Store",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/d20091d02e2e1b3d27c13bbefe913e3c.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/7dc6f9a073754c93c6c5627eafef2d4e.jpg"
+                        },
+                        "legal_name": "TN GROUP MMC",
+                        "vat_payer": true
+                    },
+                    "merchant_uuid": "23c0639d-4702-4581-8736-e82f4575c28d",
+                    "seller_id": "23c0639d-4702-4581-8736-e82f4575c28d",
+                    "old_price": 0,
+                    "partner_rating": 98,
+                    "marketing_name": {
+                        "ext_id": "1c48b16c-1810-4acb-a329-f593fea98170",
+                        "internal_id": "3062",
+                        "name": "Stem Store",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/d20091d02e2e1b3d27c13bbefe913e3c.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/7dc6f9a073754c93c6c5627eafef2d4e.jpg"
+                        },
+                        "legal_name": "TN GROUP MMC",
+                        "vat_payer": true
+                    },
+                    "installment_enabled": true,
+                    "max_installment_months": 18,
+                    "supplier_id": "23c0639d-4702-4581-8736-e82f4575c28d"
+                }
+            ],
+            "product_labels": [],
+            "default_merchant_rating": 98,
+            "is_bulk_heavy": false,
+            "default_offer_id": 889569,
+            "img_url_thumbnail": "https://strgimgr.umico.az/sized/280/134435-4373bb11950802b0f1d35a86d1016843.jpg",
+            "old_price": 0,
+            "discount": 0,
+            "availability": "+",
+            "retail_price": 23,
+            "manufacturer": "LEGO",
+            "avail_check": false,
+            "category_id": 843,
+            "default_marketing_name": {
+                "ext_id": "1c48b16c-1810-4acb-a329-f593fea98170",
+                "internal_id": "3062",
+                "name": "Stem Store",
+                "logo": {
+                    "thumbnail": "https://storage.umico.az/cpcustomerprod01/d20091d02e2e1b3d27c13bbefe913e3c.jpg",
+                    "original": "https://storage.umico.az/cpcustomerprod01/7dc6f9a073754c93c6c5627eafef2d4e.jpg"
+                },
+                "legal_name": "TN GROUP MMC"
+            },
+            "variations": [],
+            "id": 134435,
+            "categories": [
+                {
+                    "id": 843,
+                    "parent_id": 842,
+                    "vat": true,
+                    "name": "LEGO konstruktorlar",
+                    "slugged_name": "lego-konstruktorlar",
+                    "install_service_needed": false,
+                    "is_variant": false,
+                    "is_adult": false,
+                    "is_fragile": false,
+                    "child_ids": [],
+                    "split_boxes_by_item": false,
+                    "fitting_allowed": false
+                }
+            ],
+            "status": "active",
+            "score": 7.4421053,
+            "search_variant_code": "svc_134435",
+            "name": "Konstruktor LEGO Minecraft Mərcan rifi 21164, 7+ yaş, 92 hissə",
+            "slugged_name": "konstruktor-lego-minecraft-mercan-rifi"
+        },
+        {
+            "offers": [
+                {
+                    "uuid": "1d8c4cdf-f43b-42f7-a898-fdd2cad9bb05",
+                    "retail_price": 158.9,
+                    "avail_check": false,
+                    "id": 869679,
+                    "seller_marketing_name": {
+                        "ext_id": "68b218bc-bb7e-410b-817a-f9fbb918c4e8",
+                        "internal_id": "2251",
+                        "name": "Umico Market",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/d538eaf680eb6f3e5b6182a479bd4096.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/0db0cc1a94f1b4271e21a8e562735b92.jpg"
+                        },
+                        "legal_name": "Competo MMC",
+                        "vat_payer": true
+                    },
+                    "merchant_uuid": "239449d1-713c-4a42-8ce3-7821afcab364",
+                    "seller_id": "239449d1-713c-4a42-8ce3-7821afcab364",
+                    "old_price": 0,
+                    "partner_rating": 95,
+                    "marketing_name": {
+                        "ext_id": "68b218bc-bb7e-410b-817a-f9fbb918c4e8",
+                        "internal_id": "2251",
+                        "name": "Umico Market",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/d538eaf680eb6f3e5b6182a479bd4096.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/0db0cc1a94f1b4271e21a8e562735b92.jpg"
+                        },
+                        "legal_name": "Competo MMC",
+                        "vat_payer": true
+                    },
+                    "installment_enabled": true,
+                    "max_installment_months": 6,
+                    "supplier_id": "1822d63d-5825-4ca5-b887-3c8b0b56896c"
+                }
+            ],
+            "product_labels": [],
+            "default_merchant_rating": 95,
+            "is_bulk_heavy": false,
+            "default_offer_id": 869679,
+            "img_url_thumbnail": "https://strgimgr.umico.az/sized/280/574576-7c251f714076bbf7109068bc586ddb1c.jpg",
+            "old_price": 0,
+            "discount": 0,
+            "availability": "+",
+            "retail_price": 158.9,
+            "manufacturer": "LEGO",
+            "avail_check": false,
+            "category_id": 843,
+            "default_marketing_name": {
+                "ext_id": "68b218bc-bb7e-410b-817a-f9fbb918c4e8",
+                "internal_id": "2251",
+                "name": "Umico Market",
+                "logo": {
+                    "thumbnail": "https://storage.umico.az/cpcustomerprod01/d538eaf680eb6f3e5b6182a479bd4096.jpg",
+                    "original": "https://storage.umico.az/cpcustomerprod01/0db0cc1a94f1b4271e21a8e562735b92.jpg"
+                },
+                "legal_name": "Competo MMC"
+            },
+            "variations": [],
+            "id": 574576,
+            "categories": [
+                {
+                    "id": 843,
+                    "parent_id": 842,
+                    "vat": true,
+                    "name": "LEGO konstruktorlar",
+                    "slugged_name": "lego-konstruktorlar",
+                    "install_service_needed": false,
+                    "is_variant": false,
+                    "is_adult": false,
+                    "is_fragile": false,
+                    "child_ids": [],
+                    "split_boxes_by_item": false,
+                    "fitting_allowed": false
+                }
+            ],
+            "status": "active",
+            "score": 7.246186,
+            "search_variant_code": "svc_574576",
+            "name": "Konstruktor Lego Disney 'Up' House 43217, 9+ yaş, 598 hissə",
+            "slugged_name": "konstruktor-lego-disney-up-house-43217-9-yash-598-hisse"
+        },
+        {
+            "offers": [
+                {
+                    "uuid": "fc668b5e-5f94-47c7-ac14-8db3386e9aec",
+                    "retail_price": 49.9,
+                    "avail_check": false,
+                    "id": 783919,
+                    "seller_marketing_name": {
+                        "ext_id": "df69b99d-45f7-45e3-b6ad-fa0c4c7a8376",
+                        "internal_id": "4507",
+                        "name": "Music Gallery",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/64f6cbae0545763e98ee5e89f2a64655.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/0f21783332a8bb82c26d82b6b58857d0.jpg"
+                        },
+                        "legal_name": "POVER ON MMC",
+                        "vat_payer": true
+                    },
+                    "merchant_uuid": "9373bcaa-db49-4d47-94cb-e2ef6ba9ac36",
+                    "seller_id": "9373bcaa-db49-4d47-94cb-e2ef6ba9ac36",
+                    "old_price": 59.9,
+                    "partner_rating": 84,
+                    "marketing_name": {
+                        "ext_id": "df69b99d-45f7-45e3-b6ad-fa0c4c7a8376",
+                        "internal_id": "4507",
+                        "name": "Music Gallery",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/64f6cbae0545763e98ee5e89f2a64655.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/0f21783332a8bb82c26d82b6b58857d0.jpg"
+                        },
+                        "legal_name": "POVER ON MMC",
+                        "vat_payer": true
+                    },
+                    "installment_enabled": true,
+                    "max_installment_months": 18,
+                    "supplier_id": "9373bcaa-db49-4d47-94cb-e2ef6ba9ac36"
+                }
+            ],
+            "product_labels": [
+                {
+                    "id": 4115241,
+                    "label_id": 26,
+                    "name": "Kapital_visa",
+                    "position": 0,
+                    "color": "",
+                    "rule_type": "photo",
+                    "image_url": "https://strgimgr.umico.az/dcmimages/Images/Kapital_visa_az.png",
+                    "text": ""
+                }
+            ],
+            "default_merchant_rating": 84,
+            "is_bulk_heavy": false,
+            "default_offer_id": 783919,
+            "img_url_thumbnail": "https://strgimgr.umico.az/sized/280/196919-881dd6893111b400a181331b9e9f2305.jpg",
+            "old_price": 59.9,
+            "discount": 16.69449081803005,
+            "availability": "+",
+            "retail_price": 49.9,
+            "manufacturer": "LEGO",
+            "avail_check": false,
+            "category_id": 843,
+            "default_marketing_name": {
+                "ext_id": "df69b99d-45f7-45e3-b6ad-fa0c4c7a8376",
+                "internal_id": "4507",
+                "name": "Music Gallery",
+                "logo": {
+                    "thumbnail": "https://storage.umico.az/cpcustomerprod01/64f6cbae0545763e98ee5e89f2a64655.jpg",
+                    "original": "https://storage.umico.az/cpcustomerprod01/0f21783332a8bb82c26d82b6b58857d0.jpg"
+                },
+                "legal_name": "POVER ON MMC"
+            },
+            "variations": [],
+            "id": 196919,
+            "categories": [
+                {
+                    "id": 843,
+                    "parent_id": 842,
+                    "vat": true,
+                    "name": "LEGO konstruktorlar",
+                    "slugged_name": "lego-konstruktorlar",
+                    "install_service_needed": false,
+                    "is_variant": false,
+                    "is_adult": false,
+                    "is_fragile": false,
+                    "child_ids": [],
+                    "split_boxes_by_item": false,
+                    "fitting_allowed": false
+                }
+            ],
+            "status": "active",
+            "score": 7.589083,
+            "search_variant_code": "svc_196919",
+            "name": "Konstruktor LEGO Speed Champions McLaren Elva 76902, 7+ yaş, 263 hissə",
+            "slugged_name": "konstruktor-lego-speed-champions-mclaren-elva-7-yashdan"
+        },
+        {
+            "offers": [
+                {
+                    "uuid": "3f4b7aab-e96e-46e9-a167-15b6679a645b",
+                    "retail_price": 29.9,
+                    "avail_check": false,
+                    "id": 783912,
+                    "seller_marketing_name": {
+                        "ext_id": "df69b99d-45f7-45e3-b6ad-fa0c4c7a8376",
+                        "internal_id": "4507",
+                        "name": "Music Gallery",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/64f6cbae0545763e98ee5e89f2a64655.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/0f21783332a8bb82c26d82b6b58857d0.jpg"
+                        },
+                        "legal_name": "POVER ON MMC",
+                        "vat_payer": true
+                    },
+                    "merchant_uuid": "9373bcaa-db49-4d47-94cb-e2ef6ba9ac36",
+                    "seller_id": "9373bcaa-db49-4d47-94cb-e2ef6ba9ac36",
+                    "old_price": 34.9,
+                    "partner_rating": 84,
+                    "marketing_name": {
+                        "ext_id": "df69b99d-45f7-45e3-b6ad-fa0c4c7a8376",
+                        "internal_id": "4507",
+                        "name": "Music Gallery",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/64f6cbae0545763e98ee5e89f2a64655.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/0f21783332a8bb82c26d82b6b58857d0.jpg"
+                        },
+                        "legal_name": "POVER ON MMC",
+                        "vat_payer": true
+                    },
+                    "installment_enabled": true,
+                    "max_installment_months": 18,
+                    "supplier_id": "9373bcaa-db49-4d47-94cb-e2ef6ba9ac36"
+                }
+            ],
+            "product_labels": [],
+            "default_merchant_rating": 84,
+            "is_bulk_heavy": false,
+            "default_offer_id": 783912,
+            "img_url_thumbnail": "https://strgimgr.umico.az/sized/280/54313-4bc4872be659204207f996feb56eeca1.jpg",
+            "old_price": 34.9,
+            "discount": 14.32664756446991,
+            "availability": "+",
+            "retail_price": 29.9,
+            "manufacturer": "LEGO",
+            "avail_check": false,
+            "category_id": 843,
+            "default_marketing_name": {
+                "ext_id": "df69b99d-45f7-45e3-b6ad-fa0c4c7a8376",
+                "internal_id": "4507",
+                "name": "Music Gallery",
+                "logo": {
+                    "thumbnail": "https://storage.umico.az/cpcustomerprod01/64f6cbae0545763e98ee5e89f2a64655.jpg",
+                    "original": "https://storage.umico.az/cpcustomerprod01/0f21783332a8bb82c26d82b6b58857d0.jpg"
+                },
+                "legal_name": "POVER ON MMC"
+            },
+            "variations": [],
+            "id": 54313,
+            "categories": [
+                {
+                    "id": 843,
+                    "parent_id": 842,
+                    "vat": true,
+                    "name": "LEGO konstruktorlar",
+                    "slugged_name": "lego-konstruktorlar",
+                    "install_service_needed": false,
+                    "is_variant": false,
+                    "is_adult": false,
+                    "is_fragile": false,
+                    "child_ids": [],
+                    "split_boxes_by_item": false,
+                    "fitting_allowed": false
+                }
+            ],
+            "status": "active",
+            "score": 7.4736414,
+            "search_variant_code": "svc_54313",
+            "name": "Konstruktor LEGO Ninjago Jungle Raider 71700, plastik, 15.7x14.1x6.1 sm, 7+ yaş, 127 hissə",
+            "slugged_name": "konstruktor-lego-ninjago-jungle-raider-plastik-7-yash-15-7x14-1x6-1-sm-127-eded"
+        },
+        {
+            "offers": [
+                {
+                    "uuid": "3b7ab418-a5e3-490f-85c9-5e8fd7907019",
+                    "retail_price": 37.34,
+                    "avail_check": false,
+                    "id": 869673,
+                    "seller_marketing_name": {
+                        "ext_id": "68b218bc-bb7e-410b-817a-f9fbb918c4e8",
+                        "internal_id": "2251",
+                        "name": "Umico Market",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/d538eaf680eb6f3e5b6182a479bd4096.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/0db0cc1a94f1b4271e21a8e562735b92.jpg"
+                        },
+                        "legal_name": "Competo MMC",
+                        "vat_payer": true
+                    },
+                    "merchant_uuid": "239449d1-713c-4a42-8ce3-7821afcab364",
+                    "seller_id": "239449d1-713c-4a42-8ce3-7821afcab364",
+                    "old_price": 0,
+                    "partner_rating": 95,
+                    "marketing_name": {
+                        "ext_id": "68b218bc-bb7e-410b-817a-f9fbb918c4e8",
+                        "internal_id": "2251",
+                        "name": "Umico Market",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/d538eaf680eb6f3e5b6182a479bd4096.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/0db0cc1a94f1b4271e21a8e562735b92.jpg"
+                        },
+                        "legal_name": "Competo MMC",
+                        "vat_payer": true
+                    },
+                    "installment_enabled": true,
+                    "max_installment_months": 6,
+                    "supplier_id": "1822d63d-5825-4ca5-b887-3c8b0b56896c"
+                },
+                {
+                    "uuid": "73cf500c-3b7b-4707-a189-281d9e60d72b",
+                    "retail_price": 38,
+                    "avail_check": false,
+                    "id": 873888,
+                    "seller_marketing_name": {
+                        "ext_id": "bbd79d31-eaa9-4797-b0d3-173b932ceaec",
+                        "internal_id": "2260",
+                        "name": "TOYS TOYS",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/ca13efd47dfeb12b41764280af31fe2d.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/d1ea7f5c6bd6f59b378612b0e7be9936.jpg"
+                        },
+                        "legal_name": "İSAYEV MURAD ƏMİRSULTAN",
+                        "vat_payer": false
+                    },
+                    "merchant_uuid": "1ae834b6-1e73-4522-9e1d-01983c237f76",
+                    "seller_id": "1ae834b6-1e73-4522-9e1d-01983c237f76",
+                    "old_price": 0,
+                    "partner_rating": 84,
+                    "marketing_name": {
+                        "ext_id": "bbd79d31-eaa9-4797-b0d3-173b932ceaec",
+                        "internal_id": "2260",
+                        "name": "TOYS TOYS",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/ca13efd47dfeb12b41764280af31fe2d.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/d1ea7f5c6bd6f59b378612b0e7be9936.jpg"
+                        },
+                        "legal_name": "İSAYEV MURAD ƏMİRSULTAN",
+                        "vat_payer": false
+                    },
+                    "installment_enabled": false,
+                    "max_installment_months": 0,
+                    "supplier_id": "1ae834b6-1e73-4522-9e1d-01983c237f76"
+                }
+            ],
+            "product_labels": [],
+            "default_merchant_rating": 95,
+            "is_bulk_heavy": false,
+            "default_offer_id": 869673,
+            "img_url_thumbnail": "https://strgimgr.umico.az/sized/280/574558-d16a2ba28cfe2b1011eb00faf50fbec3.jpg",
+            "old_price": 0,
+            "discount": 0,
+            "availability": "+",
+            "retail_price": 37.34,
+            "manufacturer": "LEGO",
+            "avail_check": false,
+            "category_id": 843,
+            "default_marketing_name": {
+                "ext_id": "68b218bc-bb7e-410b-817a-f9fbb918c4e8",
+                "internal_id": "2251",
+                "name": "Umico Market",
+                "logo": {
+                    "thumbnail": "https://storage.umico.az/cpcustomerprod01/d538eaf680eb6f3e5b6182a479bd4096.jpg",
+                    "original": "https://storage.umico.az/cpcustomerprod01/0db0cc1a94f1b4271e21a8e562735b92.jpg"
+                },
+                "legal_name": "Competo MMC"
+            },
+            "variations": [],
+            "id": 574558,
+            "categories": [
+                {
+                    "id": 843,
+                    "parent_id": 842,
+                    "vat": true,
+                    "name": "LEGO konstruktorlar",
+                    "slugged_name": "lego-konstruktorlar",
+                    "install_service_needed": false,
+                    "is_variant": false,
+                    "is_adult": false,
+                    "is_fragile": false,
+                    "child_ids": [],
+                    "split_boxes_by_item": false,
+                    "fitting_allowed": false
+                }
+            ],
+            "status": "active",
+            "score": 7.4736414,
+            "search_variant_code": "svc_574558",
+            "name": "Konstruktor LEGO Disney Elsa and the Nokk’s Ice Stable 43209, 4+ yaş, 50 hissə",
+            "slugged_name": "konstruktor-lego-disney-elsa-and-the-nokk-s-ice-stable-43209-4-yash-50-hisse"
+        },
+        {
+            "offers": [
+                {
+                    "uuid": "124e1bda-04c5-444f-84de-4c1ab7ff093b",
+                    "retail_price": 56,
+                    "avail_check": false,
+                    "id": 843843,
+                    "seller_marketing_name": {
+                        "ext_id": "68b218bc-bb7e-410b-817a-f9fbb918c4e8",
+                        "internal_id": "2251",
+                        "name": "Umico Market",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/d538eaf680eb6f3e5b6182a479bd4096.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/0db0cc1a94f1b4271e21a8e562735b92.jpg"
+                        },
+                        "legal_name": "Competo MMC",
+                        "vat_payer": true
+                    },
+                    "merchant_uuid": "239449d1-713c-4a42-8ce3-7821afcab364",
+                    "seller_id": "239449d1-713c-4a42-8ce3-7821afcab364",
+                    "old_price": 0,
+                    "partner_rating": 95,
+                    "marketing_name": {
+                        "ext_id": "68b218bc-bb7e-410b-817a-f9fbb918c4e8",
+                        "internal_id": "2251",
+                        "name": "Umico Market",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/d538eaf680eb6f3e5b6182a479bd4096.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/0db0cc1a94f1b4271e21a8e562735b92.jpg"
+                        },
+                        "legal_name": "Competo MMC",
+                        "vat_payer": true
+                    },
+                    "installment_enabled": true,
+                    "max_installment_months": 6,
+                    "supplier_id": "1822d63d-5825-4ca5-b887-3c8b0b56896c"
+                }
+            ],
+            "product_labels": [],
+            "default_merchant_rating": 95,
+            "is_bulk_heavy": false,
+            "default_offer_id": 843843,
+            "img_url_thumbnail": "https://strgimgr.umico.az/sized/280/552117-b720d098150a47fe41a934e11b99f5f4.jpg",
+            "old_price": 0,
+            "discount": 0,
+            "availability": "+",
+            "retail_price": 56,
+            "manufacturer": "LEGO",
+            "avail_check": false,
+            "category_id": 843,
+            "default_marketing_name": {
+                "ext_id": "68b218bc-bb7e-410b-817a-f9fbb918c4e8",
+                "internal_id": "2251",
+                "name": "Umico Market",
+                "logo": {
+                    "thumbnail": "https://storage.umico.az/cpcustomerprod01/d538eaf680eb6f3e5b6182a479bd4096.jpg",
+                    "original": "https://storage.umico.az/cpcustomerprod01/0db0cc1a94f1b4271e21a8e562735b92.jpg"
+                },
+                "legal_name": "Competo MMC"
+            },
+            "variations": [],
+            "id": 552117,
+            "categories": [
+                {
+                    "id": 843,
+                    "parent_id": 842,
+                    "vat": true,
+                    "name": "LEGO konstruktorlar",
+                    "slugged_name": "lego-konstruktorlar",
+                    "install_service_needed": false,
+                    "is_variant": false,
+                    "is_adult": false,
+                    "is_fragile": false,
+                    "child_ids": [],
+                    "split_boxes_by_item": false,
+                    "fitting_allowed": false
+                }
+            ],
+            "status": "active",
+            "score": 7.4736414,
+            "search_variant_code": "svc_552117",
+            "name": "Konstruktor LEGO Marvel Hulk vs.Rhino Truck Showdown 10782, 4+ yaş, 110 hissə",
+            "slugged_name": "konstruktor-lego-marvel-hulk-vs-rhino-truck-showdown-10782-4-yash-110-hisse"
+        },
+        {
+            "offers": [
+                {
+                    "uuid": "2f22d2de-8d0f-4b3f-abc9-47f3837f378d",
+                    "retail_price": 147.84,
+                    "avail_check": false,
+                    "id": 859434,
+                    "seller_marketing_name": {
+                        "ext_id": "68b218bc-bb7e-410b-817a-f9fbb918c4e8",
+                        "internal_id": "2251",
+                        "name": "Umico Market",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/d538eaf680eb6f3e5b6182a479bd4096.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/0db0cc1a94f1b4271e21a8e562735b92.jpg"
+                        },
+                        "legal_name": "Competo MMC",
+                        "vat_payer": true
+                    },
+                    "merchant_uuid": "239449d1-713c-4a42-8ce3-7821afcab364",
+                    "seller_id": "239449d1-713c-4a42-8ce3-7821afcab364",
+                    "old_price": 0,
+                    "partner_rating": 95,
+                    "marketing_name": {
+                        "ext_id": "68b218bc-bb7e-410b-817a-f9fbb918c4e8",
+                        "internal_id": "2251",
+                        "name": "Umico Market",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/d538eaf680eb6f3e5b6182a479bd4096.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/0db0cc1a94f1b4271e21a8e562735b92.jpg"
+                        },
+                        "legal_name": "Competo MMC",
+                        "vat_payer": true
+                    },
+                    "installment_enabled": true,
+                    "max_installment_months": 6,
+                    "supplier_id": "1822d63d-5825-4ca5-b887-3c8b0b56896c"
+                }
+            ],
+            "product_labels": [],
+            "default_merchant_rating": 95,
+            "is_bulk_heavy": false,
+            "default_offer_id": 859434,
+            "img_url_thumbnail": "https://strgimgr.umico.az/sized/280/559134-3ab78c2d3d4e1419effcebdf8543d221.jpg",
+            "old_price": 0,
+            "discount": 0,
+            "availability": "+",
+            "retail_price": 147.84,
+            "manufacturer": "LEGO",
+            "avail_check": false,
+            "category_id": 843,
+            "default_marketing_name": {
+                "ext_id": "68b218bc-bb7e-410b-817a-f9fbb918c4e8",
+                "internal_id": "2251",
+                "name": "Umico Market",
+                "logo": {
+                    "thumbnail": "https://storage.umico.az/cpcustomerprod01/d538eaf680eb6f3e5b6182a479bd4096.jpg",
+                    "original": "https://storage.umico.az/cpcustomerprod01/0db0cc1a94f1b4271e21a8e562735b92.jpg"
+                },
+                "legal_name": "Competo MMC"
+            },
+            "variations": [],
+            "id": 559134,
+            "categories": [
+                {
+                    "id": 843,
+                    "parent_id": 842,
+                    "vat": true,
+                    "name": "LEGO konstruktorlar",
+                    "slugged_name": "lego-konstruktorlar",
+                    "install_service_needed": false,
+                    "is_variant": false,
+                    "is_adult": false,
+                    "is_fragile": false,
+                    "child_ids": [],
+                    "split_boxes_by_item": false,
+                    "fitting_allowed": false
+                }
+            ],
+            "status": "active",
+            "score": 7.4421053,
+            "search_variant_code": "svc_559134",
+            "name": "Konstruktor LEGO City Great Vehicles Demolition Site 60391, 4+ yaş, 235 hissə",
+            "slugged_name": "konstruktor-lego-city-great-vehicles-demolition-site-60391-4-yash-235-hisse"
+        },
+        {
+            "offers": [
+                {
+                    "uuid": "807a5a82-1262-4610-a9d6-2c6c0511b6d6",
+                    "retail_price": 55.94,
+                    "avail_check": false,
+                    "id": 846159,
+                    "seller_marketing_name": {
+                        "ext_id": "68b218bc-bb7e-410b-817a-f9fbb918c4e8",
+                        "internal_id": "2251",
+                        "name": "Umico Market",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/d538eaf680eb6f3e5b6182a479bd4096.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/0db0cc1a94f1b4271e21a8e562735b92.jpg"
+                        },
+                        "legal_name": "Competo MMC",
+                        "vat_payer": true
+                    },
+                    "merchant_uuid": "239449d1-713c-4a42-8ce3-7821afcab364",
+                    "seller_id": "239449d1-713c-4a42-8ce3-7821afcab364",
+                    "old_price": 0,
+                    "partner_rating": 95,
+                    "marketing_name": {
+                        "ext_id": "68b218bc-bb7e-410b-817a-f9fbb918c4e8",
+                        "internal_id": "2251",
+                        "name": "Umico Market",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/d538eaf680eb6f3e5b6182a479bd4096.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/0db0cc1a94f1b4271e21a8e562735b92.jpg"
+                        },
+                        "legal_name": "Competo MMC",
+                        "vat_payer": true
+                    },
+                    "installment_enabled": true,
+                    "max_installment_months": 6,
+                    "supplier_id": "1822d63d-5825-4ca5-b887-3c8b0b56896c"
+                }
+            ],
+            "product_labels": [
+                {
+                    "id": 4154501,
+                    "label_id": 26,
+                    "name": "Kapital_visa",
+                    "position": 0,
+                    "color": "",
+                    "rule_type": "photo",
+                    "image_url": "https://strgimgr.umico.az/dcmimages/Images/Kapital_visa_az.png",
+                    "text": ""
+                }
+            ],
+            "default_merchant_rating": 95,
+            "is_bulk_heavy": false,
+            "default_offer_id": 846159,
+            "img_url_thumbnail": "https://strgimgr.umico.az/sized/280/196907-d4da6dbb12c2e5513b9ea110d410296e.jpg",
+            "old_price": 0,
+            "discount": 0,
+            "availability": "+",
+            "retail_price": 55.94,
+            "manufacturer": "LEGO",
+            "avail_check": false,
+            "category_id": 843,
+            "default_marketing_name": {
+                "ext_id": "68b218bc-bb7e-410b-817a-f9fbb918c4e8",
+                "internal_id": "2251",
+                "name": "Umico Market",
+                "logo": {
+                    "thumbnail": "https://storage.umico.az/cpcustomerprod01/d538eaf680eb6f3e5b6182a479bd4096.jpg",
+                    "original": "https://storage.umico.az/cpcustomerprod01/0db0cc1a94f1b4271e21a8e562735b92.jpg"
+                },
+                "legal_name": "Competo MMC"
+            },
+            "variations": [],
+            "id": 196907,
+            "categories": [
+                {
+                    "id": 843,
+                    "parent_id": 842,
+                    "vat": true,
+                    "name": "LEGO konstruktorlar",
+                    "slugged_name": "lego-konstruktorlar",
+                    "install_service_needed": false,
+                    "is_variant": false,
+                    "is_adult": false,
+                    "is_fragile": false,
+                    "child_ids": [],
+                    "split_boxes_by_item": false,
+                    "fitting_allowed": false
+                }
+            ],
+            "status": "active",
+            "score": 7.4736414,
+            "search_variant_code": "svc_196907",
+            "name": "Konstruktor LEGO Harry Potter Hogwarts: Polyjuice Potion Mistake 76386, 7+ yaş, 217 hissə",
+            "slugged_name": "konstruktor-lego-harry-potter-hogwarts-polyjuice-potion-mistake-7-yashdan"
+        },
+        {
+            "offers": [
+                {
+                    "uuid": "bfd743bb-b27b-425d-a286-d2b6940a38d6",
+                    "retail_price": 206.77,
+                    "avail_check": false,
+                    "id": 844438,
+                    "seller_marketing_name": {
+                        "ext_id": "68b218bc-bb7e-410b-817a-f9fbb918c4e8",
+                        "internal_id": "2251",
+                        "name": "Umico Market",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/d538eaf680eb6f3e5b6182a479bd4096.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/0db0cc1a94f1b4271e21a8e562735b92.jpg"
+                        },
+                        "legal_name": "Competo MMC",
+                        "vat_payer": true
+                    },
+                    "merchant_uuid": "239449d1-713c-4a42-8ce3-7821afcab364",
+                    "seller_id": "239449d1-713c-4a42-8ce3-7821afcab364",
+                    "old_price": 0,
+                    "partner_rating": 95,
+                    "marketing_name": {
+                        "ext_id": "68b218bc-bb7e-410b-817a-f9fbb918c4e8",
+                        "internal_id": "2251",
+                        "name": "Umico Market",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/d538eaf680eb6f3e5b6182a479bd4096.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/0db0cc1a94f1b4271e21a8e562735b92.jpg"
+                        },
+                        "legal_name": "Competo MMC",
+                        "vat_payer": true
+                    },
+                    "installment_enabled": true,
+                    "max_installment_months": 6,
+                    "supplier_id": "1822d63d-5825-4ca5-b887-3c8b0b56896c"
+                },
+                {
+                    "uuid": "6ba22f42-5cab-4058-827e-05f7520beca8",
+                    "retail_price": 199.9,
+                    "avail_check": false,
+                    "id": 783916,
+                    "seller_marketing_name": {
+                        "ext_id": "df69b99d-45f7-45e3-b6ad-fa0c4c7a8376",
+                        "internal_id": "4507",
+                        "name": "Music Gallery",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/64f6cbae0545763e98ee5e89f2a64655.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/0f21783332a8bb82c26d82b6b58857d0.jpg"
+                        },
+                        "legal_name": "POVER ON MMC",
+                        "vat_payer": true
+                    },
+                    "merchant_uuid": "9373bcaa-db49-4d47-94cb-e2ef6ba9ac36",
+                    "seller_id": "9373bcaa-db49-4d47-94cb-e2ef6ba9ac36",
+                    "old_price": 239.9,
+                    "partner_rating": 84,
+                    "marketing_name": {
+                        "ext_id": "df69b99d-45f7-45e3-b6ad-fa0c4c7a8376",
+                        "internal_id": "4507",
+                        "name": "Music Gallery",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/64f6cbae0545763e98ee5e89f2a64655.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/0f21783332a8bb82c26d82b6b58857d0.jpg"
+                        },
+                        "legal_name": "POVER ON MMC",
+                        "vat_payer": true
+                    },
+                    "installment_enabled": true,
+                    "max_installment_months": 18,
+                    "supplier_id": "9373bcaa-db49-4d47-94cb-e2ef6ba9ac36"
+                },
+                {
+                    "uuid": "cbaa152e-ce64-4f32-867c-009d73dcf782",
+                    "retail_price": 207,
+                    "avail_check": false,
+                    "id": 720792,
+                    "seller_marketing_name": {
+                        "ext_id": "bbd79d31-eaa9-4797-b0d3-173b932ceaec",
+                        "internal_id": "2260",
+                        "name": "TOYS TOYS",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/ca13efd47dfeb12b41764280af31fe2d.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/d1ea7f5c6bd6f59b378612b0e7be9936.jpg"
+                        },
+                        "legal_name": "İSAYEV MURAD ƏMİRSULTAN",
+                        "vat_payer": false
+                    },
+                    "merchant_uuid": "1ae834b6-1e73-4522-9e1d-01983c237f76",
+                    "seller_id": "1ae834b6-1e73-4522-9e1d-01983c237f76",
+                    "old_price": 0,
+                    "partner_rating": 84,
+                    "marketing_name": {
+                        "ext_id": "bbd79d31-eaa9-4797-b0d3-173b932ceaec",
+                        "internal_id": "2260",
+                        "name": "TOYS TOYS",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/ca13efd47dfeb12b41764280af31fe2d.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/d1ea7f5c6bd6f59b378612b0e7be9936.jpg"
+                        },
+                        "legal_name": "İSAYEV MURAD ƏMİRSULTAN",
+                        "vat_payer": false
+                    },
+                    "installment_enabled": false,
+                    "max_installment_months": 0,
+                    "supplier_id": "1ae834b6-1e73-4522-9e1d-01983c237f76"
+                }
+            ],
+            "product_labels": [
+                {
+                    "id": 4119757,
+                    "label_id": 26,
+                    "name": "Kapital_visa",
+                    "position": 0,
+                    "color": "",
+                    "rule_type": "photo",
+                    "image_url": "https://strgimgr.umico.az/dcmimages/Images/Kapital_visa_az.png",
+                    "text": ""
+                }
+            ],
+            "default_merchant_rating": 84,
+            "is_bulk_heavy": false,
+            "default_offer_id": 783916,
+            "img_url_thumbnail": "https://strgimgr.umico.az/sized/280/485320-435586fe4331b07b7144655804812eed.jpg",
+            "old_price": 239.9,
+            "discount": 16.67361400583577,
+            "availability": "+",
+            "retail_price": 199.9,
+            "manufacturer": "LEGO",
+            "avail_check": false,
+            "category_id": 843,
+            "default_marketing_name": {
+                "ext_id": "df69b99d-45f7-45e3-b6ad-fa0c4c7a8376",
+                "internal_id": "4507",
+                "name": "Music Gallery",
+                "logo": {
+                    "thumbnail": "https://storage.umico.az/cpcustomerprod01/64f6cbae0545763e98ee5e89f2a64655.jpg",
+                    "original": "https://storage.umico.az/cpcustomerprod01/0f21783332a8bb82c26d82b6b58857d0.jpg"
+                },
+                "legal_name": "POVER ON MMC"
+            },
+            "variations": [],
+            "id": 485320,
+            "categories": [
+                {
+                    "id": 843,
+                    "parent_id": 842,
+                    "vat": true,
+                    "name": "LEGO konstruktorlar",
+                    "slugged_name": "lego-konstruktorlar",
+                    "install_service_needed": false,
+                    "is_variant": false,
+                    "is_adult": false,
+                    "is_fragile": false,
+                    "child_ids": [],
+                    "split_boxes_by_item": false,
+                    "fitting_allowed": false
+                }
+            ],
+            "status": "active",
+            "score": 7.4421053,
+            "search_variant_code": "svc_485320",
+            "name": "Konstruktor LEGO Spider-Man Venom 76187, 18+ yaş, 565 hissə",
+            "slugged_name": "konstruktor-lego-spider-man-venom-76187-18-yash-565-hisse"
+        },
+        {
+            "offers": [
+                {
+                    "uuid": "a26d597c-7485-4153-84b1-ff017e33874a",
+                    "retail_price": 70.46,
+                    "avail_check": false,
+                    "id": 869102,
+                    "seller_marketing_name": {
+                        "ext_id": "68b218bc-bb7e-410b-817a-f9fbb918c4e8",
+                        "internal_id": "2251",
+                        "name": "Umico Market",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/d538eaf680eb6f3e5b6182a479bd4096.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/0db0cc1a94f1b4271e21a8e562735b92.jpg"
+                        },
+                        "legal_name": "Competo MMC",
+                        "vat_payer": true
+                    },
+                    "merchant_uuid": "239449d1-713c-4a42-8ce3-7821afcab364",
+                    "seller_id": "239449d1-713c-4a42-8ce3-7821afcab364",
+                    "old_price": 0,
+                    "partner_rating": 95,
+                    "marketing_name": {
+                        "ext_id": "68b218bc-bb7e-410b-817a-f9fbb918c4e8",
+                        "internal_id": "2251",
+                        "name": "Umico Market",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/d538eaf680eb6f3e5b6182a479bd4096.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/0db0cc1a94f1b4271e21a8e562735b92.jpg"
+                        },
+                        "legal_name": "Competo MMC",
+                        "vat_payer": true
+                    },
+                    "installment_enabled": true,
+                    "max_installment_months": 6,
+                    "supplier_id": "1822d63d-5825-4ca5-b887-3c8b0b56896c"
+                },
+                {
+                    "uuid": "a5f58543-5a30-4f38-a546-aa42904d631e",
+                    "retail_price": 71,
+                    "avail_check": false,
+                    "id": 876252,
+                    "seller_marketing_name": {
+                        "ext_id": "bbd79d31-eaa9-4797-b0d3-173b932ceaec",
+                        "internal_id": "2260",
+                        "name": "TOYS TOYS",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/ca13efd47dfeb12b41764280af31fe2d.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/d1ea7f5c6bd6f59b378612b0e7be9936.jpg"
+                        },
+                        "legal_name": "İSAYEV MURAD ƏMİRSULTAN",
+                        "vat_payer": false
+                    },
+                    "merchant_uuid": "1ae834b6-1e73-4522-9e1d-01983c237f76",
+                    "seller_id": "1ae834b6-1e73-4522-9e1d-01983c237f76",
+                    "old_price": 0,
+                    "partner_rating": 84,
+                    "marketing_name": {
+                        "ext_id": "bbd79d31-eaa9-4797-b0d3-173b932ceaec",
+                        "internal_id": "2260",
+                        "name": "TOYS TOYS",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/ca13efd47dfeb12b41764280af31fe2d.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/d1ea7f5c6bd6f59b378612b0e7be9936.jpg"
+                        },
+                        "legal_name": "İSAYEV MURAD ƏMİRSULTAN",
+                        "vat_payer": false
+                    },
+                    "installment_enabled": false,
+                    "max_installment_months": 0,
+                    "supplier_id": "1ae834b6-1e73-4522-9e1d-01983c237f76"
+                }
+            ],
+            "product_labels": [],
+            "default_merchant_rating": 95,
+            "is_bulk_heavy": false,
+            "default_offer_id": 869102,
+            "img_url_thumbnail": "https://strgimgr.umico.az/sized/280/573444-0fcae398864b9788e06cfc69c80f3cdf.jpg",
+            "old_price": 0,
+            "discount": 0,
+            "availability": "+",
+            "retail_price": 70.46,
+            "manufacturer": "LEGO",
+            "avail_check": false,
+            "category_id": 843,
+            "default_marketing_name": {
+                "ext_id": "68b218bc-bb7e-410b-817a-f9fbb918c4e8",
+                "internal_id": "2251",
+                "name": "Umico Market",
+                "logo": {
+                    "thumbnail": "https://storage.umico.az/cpcustomerprod01/d538eaf680eb6f3e5b6182a479bd4096.jpg",
+                    "original": "https://storage.umico.az/cpcustomerprod01/0db0cc1a94f1b4271e21a8e562735b92.jpg"
+                },
+                "legal_name": "Competo MMC"
+            },
+            "variations": [],
+            "id": 573444,
+            "categories": [
+                {
+                    "id": 843,
+                    "parent_id": 842,
+                    "vat": true,
+                    "name": "LEGO konstruktorlar",
+                    "slugged_name": "lego-konstruktorlar",
+                    "install_service_needed": false,
+                    "is_variant": false,
+                    "is_adult": false,
+                    "is_fragile": false,
+                    "child_ids": [],
+                    "split_boxes_by_item": false,
+                    "fitting_allowed": false
+                }
+            ],
+            "status": "active",
+            "score": 7.4421053,
+            "search_variant_code": "svc_573444",
+            "name": "Konstruktor LEGO Speed Champions 2 Fast 2 Furious Nissan Skyline GT-R (R34) 76917, 9+ yaş, 319 hissə",
+            "slugged_name": "konstruktor-lego-speed-champions-2-fast-2-furious-nissan-skyline-gt-r-r34-76917-9-yash-319-hisse"
+        },
+        {
+            "offers": [
+                {
+                    "uuid": "e14029c8-6af1-4bdc-b6cd-6a0b32d85043",
+                    "retail_price": 19.99,
+                    "avail_check": false,
+                    "id": 911742,
+                    "seller_marketing_name": {
+                        "ext_id": "a3a3e462-6354-4c80-b5f5-ca73a64b155e",
+                        "internal_id": "4166",
+                        "name": "KonsolOyun.az",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/331853e02d2bcce68b32de2e71702add.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/2004c3ce17bd5463a603785c917195d5.jpg"
+                        },
+                        "legal_name": "SADİQOV POLAD TAĞI",
+                        "vat_payer": false
+                    },
+                    "merchant_uuid": "937705c7-0f4a-409d-8db2-ad031d39274a",
+                    "seller_id": "937705c7-0f4a-409d-8db2-ad031d39274a",
+                    "old_price": 0,
+                    "partner_rating": 96,
+                    "marketing_name": {
+                        "ext_id": "a3a3e462-6354-4c80-b5f5-ca73a64b155e",
+                        "internal_id": "4166",
+                        "name": "KonsolOyun.az",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/331853e02d2bcce68b32de2e71702add.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/2004c3ce17bd5463a603785c917195d5.jpg"
+                        },
+                        "legal_name": "SADİQOV POLAD TAĞI",
+                        "vat_payer": false
+                    },
+                    "installment_enabled": true,
+                    "max_installment_months": 18,
+                    "supplier_id": "937705c7-0f4a-409d-8db2-ad031d39274a"
+                }
+            ],
+            "product_labels": [
+                {
+                    "id": 5268670,
+                    "label_id": 1,
+                    "name": "Новинка",
+                    "position": 1,
+                    "color": "40C4FF",
+                    "rule_type": "parameters",
+                    "image_url": null,
+                    "text": "Yenilik"
+                }
+            ],
+            "default_merchant_rating": 96,
+            "is_bulk_heavy": false,
+            "default_offer_id": 911742,
+            "img_url_thumbnail": "https://strgimgr.umico.az/sized/280/594661-b3d03c72f788b6e717ccd73de607c2ef.jpg",
+            "old_price": 0,
+            "discount": 0,
+            "availability": "+",
+            "retail_price": 19.99,
+            "manufacturer": "LEGO",
+            "avail_check": false,
+            "category_id": 843,
+            "default_marketing_name": {
+                "ext_id": "a3a3e462-6354-4c80-b5f5-ca73a64b155e",
+                "internal_id": "4166",
+                "name": "KonsolOyun.az",
+                "logo": {
+                    "thumbnail": "https://storage.umico.az/cpcustomerprod01/331853e02d2bcce68b32de2e71702add.jpg",
+                    "original": "https://storage.umico.az/cpcustomerprod01/2004c3ce17bd5463a603785c917195d5.jpg"
+                },
+                "legal_name": "SADİQOV POLAD TAĞI"
+            },
+            "variations": [],
+            "id": 594661,
+            "categories": [
+                {
+                    "id": 843,
+                    "parent_id": 842,
+                    "vat": true,
+                    "name": "LEGO konstruktorlar",
+                    "slugged_name": "lego-konstruktorlar",
+                    "install_service_needed": false,
+                    "is_variant": false,
+                    "is_adult": false,
+                    "is_fragile": false,
+                    "child_ids": [],
+                    "split_boxes_by_item": false,
+                    "fitting_allowed": false
+                }
+            ],
+            "status": "active",
+            "score": 7.414769,
+            "search_variant_code": "svc_594661",
+            "name": "Konstruktor Lego Super Mario Character 71413, 52 element",
+            "slugged_name": "konstruktor-lego-super-mario-character-71413-52-element"
+        },
+        {
+            "offers": [
+                {
+                    "uuid": "08d7d71d-b3ca-43e4-8702-42b6548a1495",
+                    "retail_price": 37.26,
+                    "avail_check": false,
+                    "id": 845102,
+                    "seller_marketing_name": {
+                        "ext_id": "68b218bc-bb7e-410b-817a-f9fbb918c4e8",
+                        "internal_id": "2251",
+                        "name": "Umico Market",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/d538eaf680eb6f3e5b6182a479bd4096.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/0db0cc1a94f1b4271e21a8e562735b92.jpg"
+                        },
+                        "legal_name": "Competo MMC",
+                        "vat_payer": true
+                    },
+                    "merchant_uuid": "239449d1-713c-4a42-8ce3-7821afcab364",
+                    "seller_id": "239449d1-713c-4a42-8ce3-7821afcab364",
+                    "old_price": 0,
+                    "partner_rating": 95,
+                    "marketing_name": {
+                        "ext_id": "68b218bc-bb7e-410b-817a-f9fbb918c4e8",
+                        "internal_id": "2251",
+                        "name": "Umico Market",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/d538eaf680eb6f3e5b6182a479bd4096.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/0db0cc1a94f1b4271e21a8e562735b92.jpg"
+                        },
+                        "legal_name": "Competo MMC",
+                        "vat_payer": true
+                    },
+                    "installment_enabled": true,
+                    "max_installment_months": 6,
+                    "supplier_id": "1822d63d-5825-4ca5-b887-3c8b0b56896c"
+                },
+                {
+                    "uuid": "76815ecf-5ccd-4559-a143-1ed30efbfa7d",
+                    "retail_price": 38,
+                    "avail_check": false,
+                    "id": 873886,
+                    "seller_marketing_name": {
+                        "ext_id": "bbd79d31-eaa9-4797-b0d3-173b932ceaec",
+                        "internal_id": "2260",
+                        "name": "TOYS TOYS",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/ca13efd47dfeb12b41764280af31fe2d.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/d1ea7f5c6bd6f59b378612b0e7be9936.jpg"
+                        },
+                        "legal_name": "İSAYEV MURAD ƏMİRSULTAN",
+                        "vat_payer": false
+                    },
+                    "merchant_uuid": "1ae834b6-1e73-4522-9e1d-01983c237f76",
+                    "seller_id": "1ae834b6-1e73-4522-9e1d-01983c237f76",
+                    "old_price": 0,
+                    "partner_rating": 84,
+                    "marketing_name": {
+                        "ext_id": "bbd79d31-eaa9-4797-b0d3-173b932ceaec",
+                        "internal_id": "2260",
+                        "name": "TOYS TOYS",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/ca13efd47dfeb12b41764280af31fe2d.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/d1ea7f5c6bd6f59b378612b0e7be9936.jpg"
+                        },
+                        "legal_name": "İSAYEV MURAD ƏMİRSULTAN",
+                        "vat_payer": false
+                    },
+                    "installment_enabled": false,
+                    "max_installment_months": 0,
+                    "supplier_id": "1ae834b6-1e73-4522-9e1d-01983c237f76"
+                },
+                {
+                    "uuid": "c0b9c43d-0387-474e-af30-69a18071a4be",
+                    "retail_price": 37.2,
+                    "avail_check": false,
+                    "id": 889553,
+                    "seller_marketing_name": {
+                        "ext_id": "1c48b16c-1810-4acb-a329-f593fea98170",
+                        "internal_id": "3062",
+                        "name": "Stem Store",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/d20091d02e2e1b3d27c13bbefe913e3c.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/7dc6f9a073754c93c6c5627eafef2d4e.jpg"
+                        },
+                        "legal_name": "TN GROUP MMC",
+                        "vat_payer": true
+                    },
+                    "merchant_uuid": "23c0639d-4702-4581-8736-e82f4575c28d",
+                    "seller_id": "23c0639d-4702-4581-8736-e82f4575c28d",
+                    "old_price": 0,
+                    "partner_rating": 98,
+                    "marketing_name": {
+                        "ext_id": "1c48b16c-1810-4acb-a329-f593fea98170",
+                        "internal_id": "3062",
+                        "name": "Stem Store",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/d20091d02e2e1b3d27c13bbefe913e3c.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/7dc6f9a073754c93c6c5627eafef2d4e.jpg"
+                        },
+                        "legal_name": "TN GROUP MMC",
+                        "vat_payer": true
+                    },
+                    "installment_enabled": true,
+                    "max_installment_months": 18,
+                    "supplier_id": "23c0639d-4702-4581-8736-e82f4575c28d"
+                }
+            ],
+            "product_labels": [],
+            "default_merchant_rating": 98,
+            "is_bulk_heavy": false,
+            "default_offer_id": 889553,
+            "img_url_thumbnail": "https://strgimgr.umico.az/sized/280/553266-fedee8d572c731dd06168f05dea19fd9.jpg",
+            "old_price": 0,
+            "discount": 0,
+            "availability": "+",
+            "retail_price": 37.2,
+            "manufacturer": "LEGO",
+            "avail_check": false,
+            "category_id": 843,
+            "default_marketing_name": {
+                "ext_id": "1c48b16c-1810-4acb-a329-f593fea98170",
+                "internal_id": "3062",
+                "name": "Stem Store",
+                "logo": {
+                    "thumbnail": "https://storage.umico.az/cpcustomerprod01/d20091d02e2e1b3d27c13bbefe913e3c.jpg",
+                    "original": "https://storage.umico.az/cpcustomerprod01/7dc6f9a073754c93c6c5627eafef2d4e.jpg"
+                },
+                "legal_name": "TN GROUP MMC"
+            },
+            "variations": [],
+            "id": 553266,
+            "categories": [
+                {
+                    "id": 843,
+                    "parent_id": 842,
+                    "vat": true,
+                    "name": "LEGO konstruktorlar",
+                    "slugged_name": "lego-konstruktorlar",
+                    "install_service_needed": false,
+                    "is_variant": false,
+                    "is_adult": false,
+                    "is_fragile": false,
+                    "child_ids": [],
+                    "split_boxes_by_item": false,
+                    "fitting_allowed": false
+                }
+            ],
+            "status": "active",
+            "score": 7.4421053,
+            "search_variant_code": "svc_553266",
+            "name": "Konstruktor Lego Creator Vintage Motorcycle 31135, 8+ yaş, 128 hissə",
+            "slugged_name": "konstruktor-lego-creator-vintage-motorcycle-31135-8-yash-128-hisse"
+        },
+        {
+            "offers": [
+                {
+                    "uuid": "aead2a7f-6a70-4cd3-ac3f-d7d7d1c2eff8",
+                    "retail_price": 56.36,
+                    "avail_check": false,
+                    "id": 827221,
+                    "seller_marketing_name": {
+                        "ext_id": "68b218bc-bb7e-410b-817a-f9fbb918c4e8",
+                        "internal_id": "2251",
+                        "name": "Umico Market",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/d538eaf680eb6f3e5b6182a479bd4096.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/0db0cc1a94f1b4271e21a8e562735b92.jpg"
+                        },
+                        "legal_name": "Competo MMC",
+                        "vat_payer": true
+                    },
+                    "merchant_uuid": "239449d1-713c-4a42-8ce3-7821afcab364",
+                    "seller_id": "239449d1-713c-4a42-8ce3-7821afcab364",
+                    "old_price": 0,
+                    "partner_rating": 95,
+                    "marketing_name": {
+                        "ext_id": "68b218bc-bb7e-410b-817a-f9fbb918c4e8",
+                        "internal_id": "2251",
+                        "name": "Umico Market",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/d538eaf680eb6f3e5b6182a479bd4096.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/0db0cc1a94f1b4271e21a8e562735b92.jpg"
+                        },
+                        "legal_name": "Competo MMC",
+                        "vat_payer": true
+                    },
+                    "installment_enabled": true,
+                    "max_installment_months": 6,
+                    "supplier_id": "1822d63d-5825-4ca5-b887-3c8b0b56896c"
+                },
+                {
+                    "uuid": "40ae7b9e-a533-45fb-bcb8-f6343ee20d7f",
+                    "retail_price": 57,
+                    "avail_check": false,
+                    "id": 613806,
+                    "seller_marketing_name": {
+                        "ext_id": "bbd79d31-eaa9-4797-b0d3-173b932ceaec",
+                        "internal_id": "2260",
+                        "name": "TOYS TOYS",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/ca13efd47dfeb12b41764280af31fe2d.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/d1ea7f5c6bd6f59b378612b0e7be9936.jpg"
+                        },
+                        "legal_name": "İSAYEV MURAD ƏMİRSULTAN",
+                        "vat_payer": false
+                    },
+                    "merchant_uuid": "1ae834b6-1e73-4522-9e1d-01983c237f76",
+                    "seller_id": "1ae834b6-1e73-4522-9e1d-01983c237f76",
+                    "old_price": 0,
+                    "partner_rating": 84,
+                    "marketing_name": {
+                        "ext_id": "bbd79d31-eaa9-4797-b0d3-173b932ceaec",
+                        "internal_id": "2260",
+                        "name": "TOYS TOYS",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/ca13efd47dfeb12b41764280af31fe2d.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/d1ea7f5c6bd6f59b378612b0e7be9936.jpg"
+                        },
+                        "legal_name": "İSAYEV MURAD ƏMİRSULTAN",
+                        "vat_payer": false
+                    },
+                    "installment_enabled": false,
+                    "max_installment_months": 0,
+                    "supplier_id": "1ae834b6-1e73-4522-9e1d-01983c237f76"
+                },
+                {
+                    "uuid": "f99bf324-8df5-4fc5-9551-35ad114a90a3",
+                    "retail_price": 56.4,
+                    "avail_check": false,
+                    "id": 889570,
+                    "seller_marketing_name": {
+                        "ext_id": "1c48b16c-1810-4acb-a329-f593fea98170",
+                        "internal_id": "3062",
+                        "name": "Stem Store",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/d20091d02e2e1b3d27c13bbefe913e3c.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/7dc6f9a073754c93c6c5627eafef2d4e.jpg"
+                        },
+                        "legal_name": "TN GROUP MMC",
+                        "vat_payer": true
+                    },
+                    "merchant_uuid": "23c0639d-4702-4581-8736-e82f4575c28d",
+                    "seller_id": "23c0639d-4702-4581-8736-e82f4575c28d",
+                    "old_price": 0,
+                    "partner_rating": 98,
+                    "marketing_name": {
+                        "ext_id": "1c48b16c-1810-4acb-a329-f593fea98170",
+                        "internal_id": "3062",
+                        "name": "Stem Store",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/d20091d02e2e1b3d27c13bbefe913e3c.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/7dc6f9a073754c93c6c5627eafef2d4e.jpg"
+                        },
+                        "legal_name": "TN GROUP MMC",
+                        "vat_payer": true
+                    },
+                    "installment_enabled": true,
+                    "max_installment_months": 18,
+                    "supplier_id": "23c0639d-4702-4581-8736-e82f4575c28d"
+                }
+            ],
+            "product_labels": [
+                {
+                    "id": 4099640,
+                    "label_id": 26,
+                    "name": "Kapital_visa",
+                    "position": 0,
+                    "color": "",
+                    "rule_type": "photo",
+                    "image_url": "https://strgimgr.umico.az/dcmimages/Images/Kapital_visa_az.png",
+                    "text": ""
+                }
+            ],
+            "default_merchant_rating": 95,
+            "is_bulk_heavy": false,
+            "default_offer_id": 827221,
+            "img_url_thumbnail": "https://strgimgr.umico.az/sized/280/436417-577f08e82d8d6c36fd7afeb93c93705a.jpg",
+            "old_price": 0,
+            "discount": 0,
+            "availability": "+",
+            "retail_price": 56.36,
+            "manufacturer": "LEGO",
+            "avail_check": false,
+            "category_id": 843,
+            "default_marketing_name": {
+                "ext_id": "68b218bc-bb7e-410b-817a-f9fbb918c4e8",
+                "internal_id": "2251",
+                "name": "Umico Market",
+                "logo": {
+                    "thumbnail": "https://storage.umico.az/cpcustomerprod01/d538eaf680eb6f3e5b6182a479bd4096.jpg",
+                    "original": "https://storage.umico.az/cpcustomerprod01/0db0cc1a94f1b4271e21a8e562735b92.jpg"
+                },
+                "legal_name": "Competo MMC"
+            },
+            "variations": [],
+            "id": 436417,
+            "categories": [
+                {
+                    "id": 843,
+                    "parent_id": 842,
+                    "vat": true,
+                    "name": "LEGO konstruktorlar",
+                    "slugged_name": "lego-konstruktorlar",
+                    "install_service_needed": false,
+                    "is_variant": false,
+                    "is_adult": false,
+                    "is_fragile": false,
+                    "child_ids": [],
+                    "split_boxes_by_item": false,
+                    "fitting_allowed": false
+                }
+            ],
+            "status": "active",
+            "score": 7.3467646,
+            "search_variant_code": "svc_436417",
+            "name": "Konstruktor LEGO Minecraft Mushroom house 21179, 8+ yaş, 272 hissə",
+            "slugged_name": "konstruktor-lego-minecraft-mushroom-house-21179-8-yash-272-hisse"
+        },
+        {
+            "offers": [
+                {
+                    "uuid": "41b8c048-4079-46f6-ace9-41d78f47e105",
+                    "retail_price": 49.9,
+                    "avail_check": false,
+                    "id": 783923,
+                    "seller_marketing_name": {
+                        "ext_id": "df69b99d-45f7-45e3-b6ad-fa0c4c7a8376",
+                        "internal_id": "4507",
+                        "name": "Music Gallery",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/64f6cbae0545763e98ee5e89f2a64655.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/0f21783332a8bb82c26d82b6b58857d0.jpg"
+                        },
+                        "legal_name": "POVER ON MMC",
+                        "vat_payer": true
+                    },
+                    "merchant_uuid": "9373bcaa-db49-4d47-94cb-e2ef6ba9ac36",
+                    "seller_id": "9373bcaa-db49-4d47-94cb-e2ef6ba9ac36",
+                    "old_price": 59.9,
+                    "partner_rating": 84,
+                    "marketing_name": {
+                        "ext_id": "df69b99d-45f7-45e3-b6ad-fa0c4c7a8376",
+                        "internal_id": "4507",
+                        "name": "Music Gallery",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/64f6cbae0545763e98ee5e89f2a64655.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/0f21783332a8bb82c26d82b6b58857d0.jpg"
+                        },
+                        "legal_name": "POVER ON MMC",
+                        "vat_payer": true
+                    },
+                    "installment_enabled": true,
+                    "max_installment_months": 18,
+                    "supplier_id": "9373bcaa-db49-4d47-94cb-e2ef6ba9ac36"
+                }
+            ],
+            "product_labels": [
+                {
+                    "id": 4081517,
+                    "label_id": 26,
+                    "name": "Kapital_visa",
+                    "position": 0,
+                    "color": "",
+                    "rule_type": "photo",
+                    "image_url": "https://strgimgr.umico.az/dcmimages/Images/Kapital_visa_az.png",
+                    "text": ""
+                }
+            ],
+            "default_merchant_rating": 84,
+            "is_bulk_heavy": false,
+            "default_offer_id": 783923,
+            "img_url_thumbnail": "https://strgimgr.umico.az/sized/280/134391-842727334efd05556e0462db1ada0673.jpg",
+            "old_price": 59.9,
+            "discount": 16.69449081803005,
+            "availability": "+",
+            "retail_price": 49.9,
+            "manufacturer": "LEGO",
+            "avail_check": false,
+            "category_id": 843,
+            "default_marketing_name": {
+                "ext_id": "df69b99d-45f7-45e3-b6ad-fa0c4c7a8376",
+                "internal_id": "4507",
+                "name": "Music Gallery",
+                "logo": {
+                    "thumbnail": "https://storage.umico.az/cpcustomerprod01/64f6cbae0545763e98ee5e89f2a64655.jpg",
+                    "original": "https://storage.umico.az/cpcustomerprod01/0f21783332a8bb82c26d82b6b58857d0.jpg"
+                },
+                "legal_name": "POVER ON MMC"
+            },
+            "variations": [],
+            "id": 134391,
+            "categories": [
+                {
+                    "id": 843,
+                    "parent_id": 842,
+                    "vat": true,
+                    "name": "LEGO konstruktorlar",
+                    "slugged_name": "lego-konstruktorlar",
+                    "install_service_needed": false,
+                    "is_variant": false,
+                    "is_adult": false,
+                    "is_fragile": false,
+                    "child_ids": [],
+                    "split_boxes_by_item": false,
+                    "fitting_allowed": false
+                }
+            ],
+            "status": "active",
+            "score": 7.3467646,
+            "search_variant_code": "svc_134391",
+            "name": "Konstruktor LEGO Minecraft Panda heyvan yetişdirmə müəssisəsi 21158, 7 yaş, 204 hissə",
+            "slugged_name": "konstruktor-lego-minecraft-panda-heyvan-yetishdirme-muessisesi"
+        }
+    ],
+    "filters": [
+        {
+            "field": "categories.id",
+            "field_type": "base",
+            "filter_type": "multi",
+            "title": "Kateqoriya",
+            "buckets": [
+                {
+                    "id": 842,
+                    "parent_id": null,
+                    "path_ids": [
+                        779,
+                        833,
+                        842
+                    ],
+                    "root_id": 779,
+                    "view_mode": "products_and_categories",
+                    "name_az": "Konstruktorlar",
+                    "name_ru": "Конструкторы",
+                    "slugged_name_az": "konstruktorlar",
+                    "slugged_name_ru": "konstruktory",
+                    "name": "Konstruktorlar",
+                    "slugged_name": "konstruktorlar",
+                    "children": [
+                        {
+                            "slugged_name_az": "lego-konstruktorlar",
+                            "name_ru": "Конструкторы LEGO",
+                            "path_ids": [
+                                779,
+                                833,
+                                842,
+                                843
+                            ],
+                            "parent_id": 842,
+                            "view_mode": "products",
+                            "parent_category": {
+                                "slugged_name_az": "konstruktorlar",
+                                "name_ru": "Конструкторы",
+                                "path_ids": [
+                                    779,
+                                    833,
+                                    842
+                                ],
+                                "parent_id": 833,
+                                "view_mode": "products_and_categories",
+                                "root_id": 779,
+                                "id": 842,
+                                "slugged_name_ru": "konstruktory",
+                                "name_az": "Konstruktorlar"
+                            },
+                            "root_id": 779,
+                            "id": 843,
+                            "slugged_name_ru": "konstruktory-lego",
+                            "name_az": "LEGO konstruktorlar",
+                            "name": "LEGO konstruktorlar",
+                            "slugged_name": "lego-konstruktorlar"
+                        },
+                        {
+                            "slugged_name_az": "blok-konstruktorlari",
+                            "name_ru": "Блочные конструкторы",
+                            "path_ids": [
+                                779,
+                                833,
+                                842,
+                                845
+                            ],
+                            "parent_id": 842,
+                            "view_mode": "products",
+                            "parent_category": {
+                                "slugged_name_az": "konstruktorlar",
+                                "name_ru": "Конструкторы",
+                                "path_ids": [
+                                    779,
+                                    833,
+                                    842
+                                ],
+                                "parent_id": 833,
+                                "view_mode": "products_and_categories",
+                                "root_id": 779,
+                                "id": 842,
+                                "slugged_name_ru": "konstruktory",
+                                "name_az": "Konstruktorlar"
+                            },
+                            "root_id": 779,
+                            "id": 845,
+                            "slugged_name_ru": "blochnye-konstruktory",
+                            "name_az": "Blok konstruktorları",
+                            "name": "Blok konstruktorları",
+                            "slugged_name": "blok-konstruktorlari"
+                        }
+                    ]
+                },
+                {
+                    "id": 51,
+                    "parent_id": null,
+                    "path_ids": [
+                        1,
+                        15,
+                        51
+                    ],
+                    "root_id": 1,
+                    "view_mode": "products_and_categories",
+                    "name_az": "Oyun konsolları və aksessuarlar",
+                    "name_ru": "Игровые консоли и аксессуары",
+                    "slugged_name_az": "oyun-konsollari-ve-aksessuarlar",
+                    "slugged_name_ru": "igrovye-konsoli-i-aksessuary",
+                    "name": "Oyun konsolları və aksessuarlar",
+                    "slugged_name": "oyun-konsollari-ve-aksessuarlar",
+                    "children": [
+                        {
+                            "slugged_name_az": "video-oyunlar",
+                            "name_ru": "Видео-игры и игровые подписки",
+                            "path_ids": [
+                                1,
+                                15,
+                                51,
+                                53
+                            ],
+                            "parent_id": 51,
+                            "view_mode": "products",
+                            "parent_category": {
+                                "slugged_name_az": "oyun-konsollari-ve-aksessuarlar",
+                                "name_ru": "Игровые консоли и аксессуары",
+                                "path_ids": [
+                                    1,
+                                    15,
+                                    51
+                                ],
+                                "parent_id": 15,
+                                "view_mode": "products_and_categories",
+                                "root_id": 1,
+                                "id": 51,
+                                "slugged_name_ru": "igrovye-konsoli-i-aksessuary",
+                                "name_az": "Oyun konsolları və aksessuarlar"
+                            },
+                            "root_id": 1,
+                            "id": 53,
+                            "slugged_name_ru": "videoigry",
+                            "name_az": "Video oyunları ve oyun abunələri",
+                            "name": "Video oyunları ve oyun abunələri",
+                            "slugged_name": "video-oyunlar"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "field": "retail_price",
+            "field_type": "base",
+            "filter_type": "range",
+            "title": "Qiymət",
+            "min": 19,
+            "max": 1099
+        },
+        {
+            "field": "has_discount",
+            "field_type": "base",
+            "filter_type": "boolean",
+            "title": "Endirimli"
+        },
+        {
+            "field": "status",
+            "field_type": "base",
+            "filter_type": "boolean",
+            "title": "Əldədir"
+        },
+        {
+            "field": "merchant_uuid",
+            "field_type": "base",
+            "filter_type": "multi",
+            "title": "Satıcı",
+            "buckets": [
+                {
+                    "title": "84422a58-43fd-49da-a4dc-04c533b798f4",
+                    "marketing_name": "Gallery 4 Kids"
+                },
+                {
+                    "title": "937705c7-0f4a-409d-8db2-ad031d39274a",
+                    "marketing_name": "KonsolOyun.az"
+                },
+                {
+                    "title": "1fa882d7-cded-41bb-8620-874f18797c6e",
+                    "marketing_name": "Maxi.az"
+                },
+                {
+                    "title": "9373bcaa-db49-4d47-94cb-e2ef6ba9ac36",
+                    "marketing_name": "Music Gallery"
+                },
+                {
+                    "title": "c694c941-274b-4b9f-a4be-68581e28929f",
+                    "marketing_name": "MƏSTAN"
+                },
+                {
+                    "title": "0cd602f6-437d-419d-9a93-05b6e7facc39",
+                    "marketing_name": "Sandıq Online Store"
+                },
+                {
+                    "title": "23c0639d-4702-4581-8736-e82f4575c28d",
+                    "marketing_name": "Stem Store"
+                },
+                {
+                    "title": "1ae834b6-1e73-4522-9e1d-01983c237f76",
+                    "marketing_name": "TOYS TOYS"
+                },
+                {
+                    "title": "239449d1-713c-4a42-8ce3-7821afcab364",
+                    "marketing_name": "Umico Market"
+                }
+            ]
+        }
+    ]
+}

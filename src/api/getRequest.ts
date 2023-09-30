@@ -8,10 +8,14 @@ const getItems = (search: string) => {
     headers: {},
   };
 
-  axios
+  return axios
     .request(config)
     .then((response) => {
-      console.log(JSON.stringify(response.data));
+      response.data.products.forEach((product) => {
+        console.log(product);
+      });
+      //   console.log(JSON.stringify(response.data));
+      return response.data.products;
     })
     .catch((error) => {
       console.log(error);

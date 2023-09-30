@@ -1,0 +1,287 @@
+{
+    "locale": "az",
+    "trace_id": null,
+    "meta": {
+        "page": 1,
+        "per_page": 24,
+        "total_pages": 1,
+        "total_entries": 2
+    },
+    "products": [
+        {
+            "offers": [
+                {
+                    "uuid": "1ad8f9a0-f473-4bf8-8841-63ccf26ec0e3",
+                    "retail_price": 0.75,
+                    "avail_check": false,
+                    "id": 875691,
+                    "seller_marketing_name": {
+                        "ext_id": "2d2c1221-951d-42b1-a546-095a1f2e92d9",
+                        "internal_id": "4624",
+                        "name": "Dükan",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/4ab887aaf4fe7149efec0ad7d9b61a92.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/077fa3d53ae994408ddc2836ce572349.jpg"
+                        },
+                        "legal_name": "AZƏRBAYCAN SUPERMARKET MMC",
+                        "vat_payer": true
+                    },
+                    "merchant_uuid": "7df90140-9eb0-420c-99d6-369299fa2d3d",
+                    "seller_id": "7df90140-9eb0-420c-99d6-369299fa2d3d",
+                    "old_price": 0,
+                    "partner_rating": 92,
+                    "marketing_name": {
+                        "ext_id": "2d2c1221-951d-42b1-a546-095a1f2e92d9",
+                        "internal_id": "4624",
+                        "name": "Dükan",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/4ab887aaf4fe7149efec0ad7d9b61a92.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/077fa3d53ae994408ddc2836ce572349.jpg"
+                        },
+                        "legal_name": "AZƏRBAYCAN SUPERMARKET MMC",
+                        "vat_payer": true
+                    },
+                    "installment_enabled": false,
+                    "max_installment_months": 0,
+                    "supplier_id": "7df90140-9eb0-420c-99d6-369299fa2d3d"
+                }
+            ],
+            "product_labels": [
+                {
+                    "id": 5358526,
+                    "label_id": 31,
+                    "name": "Dukan_cashback_7",
+                    "position": 0,
+                    "color": "",
+                    "rule_type": "photo",
+                    "image_url": "https://strgimgr.umico.az/dcmimages/Images/cashback_7_az.png",
+                    "text": ""
+                }
+            ],
+            "default_merchant_rating": 92,
+            "is_bulk_heavy": false,
+            "default_offer_id": 875691,
+            "img_url_thumbnail": "https://strgimgr.umico.az/sized/280/544807-ebaf29ce5da02885e75272ca4516270b.jpg",
+            "old_price": 0,
+            "discount": 0,
+            "availability": "+",
+            "retail_price": 0.75,
+            "manufacturer": "Kartof",
+            "avail_check": false,
+            "category_id": 4545,
+            "default_marketing_name": {
+                "ext_id": "2d2c1221-951d-42b1-a546-095a1f2e92d9",
+                "internal_id": "4624",
+                "name": "Dükan",
+                "logo": {
+                    "thumbnail": "https://storage.umico.az/cpcustomerprod01/4ab887aaf4fe7149efec0ad7d9b61a92.jpg",
+                    "original": "https://storage.umico.az/cpcustomerprod01/077fa3d53ae994408ddc2836ce572349.jpg"
+                },
+                "legal_name": "AZƏRBAYCAN SUPERMARKET MMC"
+            },
+            "variations": [],
+            "id": 544807,
+            "categories": [
+                {
+                    "id": 4545,
+                    "parent_id": 4542,
+                    "vat": true,
+                    "name": "Tərəvəz",
+                    "slugged_name": "terevez",
+                    "install_service_needed": false,
+                    "is_variant": false,
+                    "is_adult": false,
+                    "is_fragile": false,
+                    "child_ids": [],
+                    "split_boxes_by_item": false,
+                    "fitting_allowed": false
+                }
+            ],
+            "status": "active",
+            "score": 11.637224,
+            "search_variant_code": "svc_544807",
+            "name": "Kartof 1000(+-50) q",
+            "slugged_name": "kartof-1-kq"
+        },
+        {
+            "offers": [
+                {
+                    "uuid": "0ddcf78b-17e2-41a0-8b0c-231a9ba724ec",
+                    "retail_price": 3.29,
+                    "avail_check": false,
+                    "id": 830300,
+                    "seller_marketing_name": {
+                        "ext_id": "2d2c1221-951d-42b1-a546-095a1f2e92d9",
+                        "internal_id": "4624",
+                        "name": "Dükan",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/4ab887aaf4fe7149efec0ad7d9b61a92.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/077fa3d53ae994408ddc2836ce572349.jpg"
+                        },
+                        "legal_name": "AZƏRBAYCAN SUPERMARKET MMC",
+                        "vat_payer": true
+                    },
+                    "merchant_uuid": "7df90140-9eb0-420c-99d6-369299fa2d3d",
+                    "seller_id": "7df90140-9eb0-420c-99d6-369299fa2d3d",
+                    "old_price": 0,
+                    "partner_rating": 92,
+                    "marketing_name": {
+                        "ext_id": "2d2c1221-951d-42b1-a546-095a1f2e92d9",
+                        "internal_id": "4624",
+                        "name": "Dükan",
+                        "logo": {
+                            "thumbnail": "https://storage.umico.az/cpcustomerprod01/4ab887aaf4fe7149efec0ad7d9b61a92.jpg",
+                            "original": "https://storage.umico.az/cpcustomerprod01/077fa3d53ae994408ddc2836ce572349.jpg"
+                        },
+                        "legal_name": "AZƏRBAYCAN SUPERMARKET MMC",
+                        "vat_payer": true
+                    },
+                    "installment_enabled": false,
+                    "max_installment_months": 0,
+                    "supplier_id": "7df90140-9eb0-420c-99d6-369299fa2d3d"
+                }
+            ],
+            "product_labels": [
+                {
+                    "id": 5358117,
+                    "label_id": 31,
+                    "name": "Dukan_cashback_7",
+                    "position": 0,
+                    "color": "",
+                    "rule_type": "photo",
+                    "image_url": "https://strgimgr.umico.az/dcmimages/Images/cashback_7_az.png",
+                    "text": ""
+                }
+            ],
+            "default_merchant_rating": 92,
+            "is_bulk_heavy": false,
+            "default_offer_id": 830300,
+            "img_url_thumbnail": "https://strgimgr.umico.az/sized/280/544380-af4649472a6e3f5407e56954ed5fda22.jpg",
+            "old_price": 0,
+            "discount": 0,
+            "availability": "+",
+            "retail_price": 3.29,
+            "manufacturer": "KARTOF",
+            "avail_check": false,
+            "category_id": 4545,
+            "default_marketing_name": {
+                "ext_id": "2d2c1221-951d-42b1-a546-095a1f2e92d9",
+                "internal_id": "4624",
+                "name": "Dükan",
+                "logo": {
+                    "thumbnail": "https://storage.umico.az/cpcustomerprod01/4ab887aaf4fe7149efec0ad7d9b61a92.jpg",
+                    "original": "https://storage.umico.az/cpcustomerprod01/077fa3d53ae994408ddc2836ce572349.jpg"
+                },
+                "legal_name": "AZƏRBAYCAN SUPERMARKET MMC"
+            },
+            "variations": [],
+            "id": 544380,
+            "categories": [
+                {
+                    "id": 4545,
+                    "parent_id": 4542,
+                    "vat": true,
+                    "name": "Tərəvəz",
+                    "slugged_name": "terevez",
+                    "install_service_needed": false,
+                    "is_variant": false,
+                    "is_adult": false,
+                    "is_fragile": false,
+                    "child_ids": [],
+                    "split_boxes_by_item": false,
+                    "fitting_allowed": false
+                }
+            ],
+            "status": "active",
+            "score": 11.634321,
+            "search_variant_code": "svc_544380",
+            "name": "Kartof Qazax, 2.5 kq",
+            "slugged_name": "kartof-qazax-2-5-kq"
+        }
+    ],
+    "filters": [
+        {
+            "field": "categories.id",
+            "field_type": "base",
+            "filter_type": "multi",
+            "title": "Kateqoriya",
+            "buckets": [
+                {
+                    "id": 4542,
+                    "parent_id": null,
+                    "path_ids": [
+                        4497,
+                        4542
+                    ],
+                    "root_id": 4497,
+                    "view_mode": "products_and_categories",
+                    "name_az": "Meyvə və tərəvəz",
+                    "name_ru": "Фрукты и овощи",
+                    "slugged_name_az": "terevez-meyve-goyerti",
+                    "slugged_name_ru": "ovoschi-frukty-zelen",
+                    "name": "Meyvə və tərəvəz",
+                    "slugged_name": "terevez-meyve-goyerti",
+                    "children": [
+                        {
+                            "slugged_name_az": "terevez",
+                            "name_ru": "Овощи",
+                            "path_ids": [
+                                4497,
+                                4542,
+                                4545
+                            ],
+                            "parent_id": 4542,
+                            "view_mode": "products",
+                            "parent_category": {
+                                "slugged_name_az": "terevez-meyve-goyerti",
+                                "name_ru": "Фрукты и овощи",
+                                "path_ids": [
+                                    4497,
+                                    4542
+                                ],
+                                "parent_id": 4497,
+                                "view_mode": "products_and_categories",
+                                "root_id": 4497,
+                                "id": 4542,
+                                "slugged_name_ru": "ovoschi-frukty-zelen",
+                                "name_az": "Meyvə və tərəvəz"
+                            },
+                            "root_id": 4497,
+                            "id": 4545,
+                            "slugged_name_ru": "ovoschi",
+                            "name_az": "Tərəvəz",
+                            "name": "Tərəvəz",
+                            "slugged_name": "terevez"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "field": "retail_price",
+            "field_type": "base",
+            "filter_type": "range",
+            "title": "Qiymət",
+            "min": 0,
+            "max": 4
+        },
+        {
+            "field": "status",
+            "field_type": "base",
+            "filter_type": "boolean",
+            "title": "Əldədir"
+        },
+        {
+            "field": "merchant_uuid",
+            "field_type": "base",
+            "filter_type": "multi",
+            "title": "Satıcı",
+            "buckets": [
+                {
+                    "title": "7df90140-9eb0-420c-99d6-369299fa2d3d",
+                    "marketing_name": "Dükan"
+                }
+            ]
+        }
+    ]
+}
