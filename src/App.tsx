@@ -19,6 +19,13 @@ import {
   InputGroup,
   InputLeftElement,
   InputRightElement,
+  Modal,
+  ModalBody,
+  ModalCloseButton,
+  ModalContent,
+  ModalFooter,
+  ModalHeader,
+  ModalOverlay,
   Spacer,
   Spinner,
   Stack,
@@ -26,10 +33,12 @@ import {
   Tooltip,
   Wrap,
   WrapItem,
+  useDisclosure,
+  useToast,
 } from "@chakra-ui/react";
 import umicoSVG from "./umico.svg";
 import umicol from "./../public/umicol.png";
-import { CloseIcon, SearchIcon } from "@chakra-ui/icons";
+import { CloseIcon, ExternalLinkIcon, SearchIcon } from "@chakra-ui/icons";
 import ProductCard from "./components/ProductCard";
 
 function App() {
@@ -37,7 +46,8 @@ function App() {
   const [searchQuery, setSearchQuery] = useState(null);
   const [isLoading, setLoading] = useState(true);
   const [selectedItems, setSelectedItems] = useState([]);
-
+  const { isOpen, onOpen, onClose } = useDisclosure();
+  const toast = useToast();
   //0502632344
   useEffect(() => {
     async function fetchData() {
@@ -209,15 +219,18 @@ function App() {
               Total Cost: {calculateTotalCost()} ₼
             </Text>
 
-            <IconButton
-              colorScheme="red"
-              aria-label="Clear Collection"
-              onClick={handleClearCollection}
-              icon={<AiOutlineDelete />}
-              ml={4}
-            >
-              Clear Collection
-            </IconButton>
+            <Tooltip label="Remove all" hasArrow>
+              <IconButton
+                colorScheme="red"
+                aria-label="Clear Collection"
+                onClick={handleClearCollection}
+                icon={<AiOutlineDelete />}
+                size={"sm"}
+                ml={2}
+              >
+                Clear Collection
+              </IconButton>
+            </Tooltip>
           </Flex>
           {selectedItems.length === 0 && (
             <Center h={"450px"}>
@@ -227,6 +240,58 @@ function App() {
             </Center>
           )}
           {selectedItems.length > 0 && (
+            <>
+              <Flex flexDir={"column"} overflow={"scroll"} h={"450px"}>
+                {selectedItems.map((item, index) => (
+                  <Flex
+                    key={index}
+                    alignItems="center"
+                    justifyContent="space-between"
+                    padding={3}
+                    bg="white"
+                    borderRadius={4}
+                    mt={2}
+                    mx={2}
+                  >
+                    <Image
+                      src={item.img_url_thumbnail}
+                      alt={item.name}
+                      height={20}
+                      width={20}
+                      objectFit="cover"
+                      borderRadius="lg"
+                    />
+                    <Flex flexDir="column" alignItems="center">
+                      <Text fontSize="sm" fontWeight="bold">
+                        {item.name}
+                      </Text>
+                      <Text fontSize="sm">{item.retail_price} ₼</Text>
+                    </Flex>
+                    <Tooltip label="Remove" fontSize="md" hasArrow>
+                      <IconButton
+                        colorScheme="red"
+                        size={"xs"}
+                        onClick={() => handleRemoveFromCollection(item)}
+                        aria-label="close"
+                        icon={<CloseIcon />}
+                      />
+                    </Tooltip>
+                  </Flex>
+                ))}
+              </Flex>
+              <Center mt={5}>
+                <Button onClick={onOpen}>Save</Button>
+              </Center>
+            </>
+          )}
+        </GridItem>
+      </Grid>
+      <Modal isOpen={isOpen} onClose={onClose}>
+        <ModalOverlay />
+        <ModalContent>
+          <ModalHeader>Collection has been saved!</ModalHeader>
+          <ModalCloseButton />
+          <ModalBody>
             <Flex flexDir={"column"} overflow={"scroll"} h={"450px"}>
               {selectedItems.map((item, index) => (
                 <Flex
@@ -253,21 +318,33 @@ function App() {
                     </Text>
                     <Text fontSize="sm">{item.retail_price} ₼</Text>
                   </Flex>
-                  <Tooltip label="Remove" fontSize="md" hasArrow>
-                    <IconButton
-                      colorScheme="red"
-                      size={"xs"}
-                      onClick={() => handleRemoveFromCollection(item)}
-                      aria-label="close"
-                      icon={<CloseIcon />}
-                    />
-                  </Tooltip>
                 </Flex>
               ))}
             </Flex>
-          )}
-        </GridItem>
-      </Grid>
+          </ModalBody>
+
+          <ModalFooter>
+            <Center m={"auto"}>
+              <Button
+                colorScheme="yellow"
+                leftIcon={<ExternalLinkIcon />}
+                mr={3}
+                onClick={() =>
+                  toast({
+                    title: "Link copied",
+                    description: "https://umico.az/grouply/items/21343",
+                    status: "success",
+                    duration: 2000,
+                    isClosable: true,
+                  })
+                }
+              >
+                Share URL
+              </Button>
+            </Center>
+          </ModalFooter>
+        </ModalContent>
+      </Modal>
     </>
   );
 }
